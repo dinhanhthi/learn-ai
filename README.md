@@ -4,9 +4,9 @@ All of courses I've attended and books I've read to learn by myself Data Science
 
 ## Courses
 
-1. [**Machine Learning**](https://www.coursera.org/learn/machine-learning) by Andew NG on Coursera. [My note](https://mynote.dinhanhthi.com/tags#ml-coursera) for this course.
-2. **[Data Scientist](https://www.dataquest.io/path/data-scientist)** path on Dataquest. [My note](https://mynote.dinhanhthi.com/tags#dataquest) for this course.
-3. **[IBM Data Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)** course on Coursera. [My note](https://mynote.dinhanhthi.com/tags#ibm-data) for this course.
+1. [**Machine Learning**](https://www.coursera.org/learn/machine-learning) by Andew NG on Coursera. It introduce a general idea about ML and some commonly used algorithms. [My note](https://mynote.dinhanhthi.com/tags#ml-coursera) for this course.
+2. **[Data Scientist](https://www.dataquest.io/path/data-scientist)** path & **[Data Engineer](https://www.dataquest.io/path/data-engineer/)** path on Dataquest. Both of them contain many sub-courses covering all about Data Science. [My note](https://mynote.dinhanhthi.com/tags#dataquest) for this course.
+3. **[IBM Data Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)** course on Coursera. It contains 9 sub-courses covering fundamental knowledge about data science. [My note](https://mynote.dinhanhthi.com/tags#ibm-data) for this course.
 
 ## Books
 
