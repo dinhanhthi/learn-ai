@@ -1,4 +1,4 @@
-# DataScienceLearning
+# data-science-learning
 
 All of courses I've attended and books I've read to learn by myself Data Science. These are listed in the order of date I've learned.
 
