@@ -6,4 +6,4 @@ The files `chapXX_concentual.ipynb` contains **Conceptual** exercises' solution 
 
 - Download & Buy the book: [here](http://www-bcf.usc.edu/~gareth/ISL/)
 - My personal website: [dinhanhthi.com](https://dinhanhthi.com)
-- My personal notes: [mynote.dinhanhthi.com](https://mynote.dinhanhthi.com)
+- My personal notes: [rawnote.dinhanhthi.com](https://rawnote.dinhanhthi.com)
