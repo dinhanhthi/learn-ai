@@ -19,7 +19,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 - [x] [Setting up a café in Ho Chi Minh City](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc).
 
-### Mini-projects for understanding the concepts
+### 💡 Mini-projects for understanding the concepts
 
 You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).
 
