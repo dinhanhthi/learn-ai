@@ -17,6 +17,8 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## Libraries
 
+The "ticked" libraries don't mean that I've known/understand whole of them (but I can easily use them with their documentation)!
+
 - [x] [scikit-learn](https://scikit-learn.org/stable/) -- w.r.t. all algorithms I've learned and projects I've done so far.
 - [x] [TensorFlow](https://www.tensorflow.org/) -- w.r.t. all algorithms I've learned and projects I've done so far.
 - [x] numpy, matplotlib, pandas -- w.r.t. all algorithms I've learned and projects I've done so far.
@@ -25,7 +27,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## Programming Languages
 
-- [x] [Python](https://www.python.org/) -- [note](https://note.dinhanhthi.com/#python).
+- [x] [Python](https://www.python.org/) -- [my note](https://note.dinhanhthi.com/#python).
 - [x] SQL.
 - [ ] [R](https://www.r-project.org/).
 - [ ] [Scala](https://www.scala-lang.org/)
@@ -36,7 +38,22 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] [Spark](https://spark.apache.org/).
 - [ ] [D3js](https://d3js.org/).
 
+## Projects
+
+### Mini-projects for understanding the concepts
+
+You can find **the html files** (exported from the corresponding Jupyter Notebook) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).
+
+- [x] Image compression using K-Means.
+- [x] Example to understand the idea of PCA.
+- [x] Image compression using PCA.
+- [x] PCA without scikit-learn.
+- [x] Face Recognition using SVM.
+- [x] XOR problem using SVM to see the effect of gamma and C in the case of using RBF kernel.
+
 ## Courses
+
+The "non-checked" courses are under the way to be finished!
 
 - [x] [**Machine Learning**](https://www.coursera.org/learn/machine-learning) by Andew NG on Coursera. It introduces a general idea about ML and some commonly used algorithms. [My note](https://rawnote.dinhanhthi.com/tags#ml-coursera) for this course.
 - [x] **[IBM Data Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)** specialization on Coursera. It contains 9 sub-courses covering fundamental knowledge about data science. [My note](https://rawnote.dinhanhthi.com/tags#ibm-data) for this course.
@@ -46,6 +63,8 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] [**fast.ai**'s courses](https://www.fast.ai/) for Machine Learning and Deep Learning.
 
 ## Books
+
+The "non-checked" books are under the way to be finished!
 
 - [ ] **[Machine Learning Yearing](https://www.deeplearning.ai/machine-learning-yearning/)** by Andew NG.
 - [ ] **[Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)** (2nd edition) by Aurélien Géron.
