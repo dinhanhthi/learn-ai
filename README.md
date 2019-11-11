@@ -2,7 +2,7 @@
 
 The list of things I've finished so far on the way of learning by myself Machine Learning and Data Science. I use [rawnote.dinhanhthi.com](http://rawnote.dinhanhthi.com) to catch up with all of the things on the first day I meet them and use [note.dinhanhthi.com](http://note.dinhanhthi.com) for more well-written notes.
 
-## Algorithms
+## 🤖 Algorithms
 
 - [x] Linear Regression / Logistic Regression.
 - [x] Support Vector Machine (SVM) -- [my note](https://note.dinhanhthi.com/support-vector-machine).
@@ -15,36 +15,13 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Hierarchical Clustering.
 - [x] Density-based Clustering.
 
-## Libraries
-
-The "ticked" libraries don't mean that I've known/understand whole of them (but I can easily use them with their documentation)!
-
-- [x] [scikit-learn](https://scikit-learn.org/stable/) -- w.r.t. all algorithms I've learned and projects I've done so far.
-- [x] [TensorFlow](https://www.tensorflow.org/) -- w.r.t. all algorithms I've learned and projects I've done so far.
-- [x] numpy, matplotlib, pandas -- w.r.t. all algorithms I've learned and projects I've done so far.
-- [ ] [Keras](https://keras.io/).
-- [ ] [OpenCV](https://opencv.org/).
-
-## Programming Languages
-
-- [x] [Python](https://www.python.org/) -- [my note](https://note.dinhanhthi.com/#python).
-- [x] SQL.
-- [ ] [R](https://www.r-project.org/).
-- [ ] [Scala](https://www.scala-lang.org/)
-
-## Frameworks
-
-- [ ] [Hadoop](https://hadoop.apache.org/).
-- [ ] [Spark](https://spark.apache.org/).
-- [ ] [D3js](https://d3js.org/).
-
-## Projects
+## 🔥 Projects
 
 - [x] [Setting up a café in Ho Chi Minh City](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc).
 
 ### Mini-projects for understanding the concepts
 
-You can find **the html files** (exported from the corresponding Jupyter Notebook) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).
+You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).
 
 - [x] Image compression using K-Means.
 - [x] Example to understand the idea of PCA.
@@ -53,7 +30,36 @@ You can find **the html files** (exported from the corresponding Jupyter Noteboo
 - [x] Face Recognition using SVM.
 - [x] XOR problem using SVM to see the effect of gamma and C in the case of using RBF kernel.
 
-## Courses
+## 📚 Libraries
+
+The "ticked" libraries don't mean that I've known/understand whole of them (but I can easily use them with their documentation)!
+
+- [x] [scikit-learn](https://scikit-learn.org/stable/) -- w.r.t. all algorithms I've learned and projects I've done so far.
+- [x] [TensorFlow](https://www.tensorflow.org/) -- w.r.t. all algorithms I've learned and projects I've done so far.
+- [x] [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/) -- w.r.t. all algorithms I've learned and projects I've done so far.
+- [ ] [Keras](https://keras.io/).
+- [ ] [OpenCV](https://opencv.org/).
+
+## 🐍 Programming Languages
+
+- [x] [Python](https://www.python.org/) -- [my note](https://note.dinhanhthi.com/#python).
+- [x] SQL.
+- [ ] [R](https://www.r-project.org/).
+- [ ] [Scala](https://www.scala-lang.org/)
+
+## ⚙️ Frameworks & Platforms
+
+- [ ] [Hadoop](https://hadoop.apache.org/).
+- [ ] [Spark](https://spark.apache.org/).
+- [ ] [D3js](https://d3js.org/).
+- [ ] [Docker](https://www.docker.com/).
+
+## ⚒️ Tools
+
+- [x] Git -- my note.
+- [ ] PostgreSQL.
+
+## 👨‍🏫 Courses
 
 The "non-checked" courses are under the way to be finished!
 
@@ -64,7 +70,7 @@ The "non-checked" courses are under the way to be finished!
 - [ ] **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** by Andrew NG on Coursera. It contains 5 courses covering the foundations of Deep Learning (CNN, RNN, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization,...). Many case studies projects are proposed.
 - [ ] [**fast.ai**'s courses](https://www.fast.ai/) for Machine Learning and Deep Learning.
 
-## Books
+## 📖 Books
 
 The "non-checked" books are under the way to be finished!
 
