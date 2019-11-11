@@ -1,6 +1,21 @@
 # data-science-learning
 
-All of courses I've attended and books I've read to learn by myself Data Science. These are listed in the order of date I've learned.
+The list of things I've finished so far on the way of learning by myself Machine Learning and Data Science. I use [rawnote.dinhanhthi.com](http://rawnote.dinhanhthi.com) to catch up with all of the things on the first day I meet them and use [note.dinhanhthi.com](http://note.dinhanhthi.com) for more well-written notes.
+
+## Algorithms
+
+- [x] Linear Regression / Logistic Regression -- [my note](https://rawnote.dinhanhthi.com/search?q=linear+regression)).
+- [x] Support Vector Machine (SVM).
+- [x] Decision Tree -- [my note](https://note.dinhanhthi.com/search?q=decision+tree).
+- [x] Random Forest -- my note.
+- [x] Principal Component Analysis (PCA) -- [my note](https://note.dinhanhthi.com/principal-component-analysis).
+
+## Libraries
+
+- [x] [scikit-learn](https://scikit-learn.org/stable/).
+- [x] [TensorFlow](https://www.tensorflow.org/).
+- [ ] [Keras](https://keras.io/).
+- [ ] OpenCV.
 
 ## Courses
 
@@ -13,11 +28,11 @@ All of courses I've attended and books I've read to learn by myself Data Science
 
 ## Books
 
+- [ ] **[Machine Learning Yearing](https://www.deeplearning.ai/machine-learning-yearning/)** by Andew NG.
+- [ ] **[Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)** (2nd edition) by Aurélien Géron.
+- [ ] **[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)** by François Chollet.
 - [ ] **[An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)** by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirami.
 - [ ] **[The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://web.stanford.edu/~hastie/ElemStatLearn/)** by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
-- [ ] **[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)** by François Chollet.
-- [ ] **[Machine Learning Yearing](https://www.deeplearning.ai/machine-learning-yearning/)** by Andew NG.
-- [ ] **Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems** (2nd edition) by Aurélien Géron.
 
 
 
