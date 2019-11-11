@@ -4,14 +4,16 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## Algorithms
 
-- [x] Linear Regression / Logistic Regression -- [my note](https://rawnote.dinhanhthi.com/search?q=linear+regression).
+- [x] Linear Regression / Logistic Regression.
 - [x] Support Vector Machine (SVM) -- [my note](https://note.dinhanhthi.com/support-vector-machine).
 - [x] Decision Tree -- [my note](https://note.dinhanhthi.com/search?q=decision+tree).
 - [x] Random Forest -- [my note](https://note.dinhanhthi.com/random-forest).
 - [x] Principal Component Analysis (PCA) -- [my note](https://note.dinhanhthi.com/principal-component-analysis).
 - [x] Neural Networks.
-- K-Nearest Neighbors (KNN)
-- K-Means Clustering.
+- [x] K-Nearest Neighbors (KNN)
+- [x] K-Means Clustering.
+- [x] Hierarchical Clustering.
+- [x] Density-based Clustering.
 
 ## Libraries
 
@@ -23,8 +25,8 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## Programming Languages
 
-- [x] [Python](https://www.python.org/) -- my [raw notes](https://rawnote.dinhanhthi.com/categories#python) / [note](https://note.dinhanhthi.com/#python).
-- [x] SQL -- my [raw notes](https://rawnote.dinhanhthi.com/tags#sql_cap).
+- [x] [Python](https://www.python.org/) -- [note](https://note.dinhanhthi.com/#python).
+- [x] SQL.
 - [ ] [R](https://www.r-project.org/).
 - [ ] [Scala](https://www.scala-lang.org/)
 
