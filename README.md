@@ -40,6 +40,8 @@ The "ticked" libraries don't mean that I've known/understand whole of them (but 
 
 ## Projects
 
+- [x] [Setting up a café in Ho Chi Minh City](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc).
+
 ### Mini-projects for understanding the concepts
 
 You can find **the html files** (exported from the corresponding Jupyter Notebook) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).
