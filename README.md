@@ -14,6 +14,8 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] K-Means Clustering.
 - [x] Hierarchical Clustering.
 - [x] Density-based Clustering.
+- [ ] Recurrent neural network (RNN).
+- [ ] Convolutional Neural Network (CNN).
 
 ### 💡 Concepts
 
@@ -51,9 +53,9 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 *The "ticked" libraries don't mean that I've known/understand whole of them (but I can easily use them with their documentation)!*
 
-- [x] [scikit-learn](https://scikit-learn.org/stable/) -- w.r.t. all algorithms I've learned and projects I've done so far.
-- [x] [TensorFlow](https://www.tensorflow.org/) -- w.r.t. all algorithms I've learned and projects I've done so far.
-- [x] [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/) -- w.r.t. all algorithms I've learned and projects I've done so far.
+- [x] [scikit-learn](https://scikit-learn.org/stable/) -- *w.r.t. all algorithms I've learned and projects I've done so far*.
+- [x] [TensorFlow](https://www.tensorflow.org/) -- *w.r.t. all algorithms I've learned and projects I've done so far*.
+- [x] [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/) -- *w.r.t. all algorithms I've learned and projects I've done so far*.
 - [ ] [Keras](https://keras.io/).
 - [ ] [OpenCV](https://opencv.org/).
 
