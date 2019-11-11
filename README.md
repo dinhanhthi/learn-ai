@@ -4,18 +4,35 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## Algorithms
 
-- [x] Linear Regression / Logistic Regression -- [my note](https://rawnote.dinhanhthi.com/search?q=linear+regression)).
-- [x] Support Vector Machine (SVM).
+- [x] Linear Regression / Logistic Regression -- [my note](https://rawnote.dinhanhthi.com/search?q=linear+regression).
+- [x] Support Vector Machine (SVM) -- [my note](https://note.dinhanhthi.com/support-vector-machine).
 - [x] Decision Tree -- [my note](https://note.dinhanhthi.com/search?q=decision+tree).
-- [x] Random Forest -- my note.
+- [x] Random Forest -- [my note](https://note.dinhanhthi.com/random-forest).
 - [x] Principal Component Analysis (PCA) -- [my note](https://note.dinhanhthi.com/principal-component-analysis).
+- [x] Neural Networks.
+- K-Nearest Neighbors (KNN)
+- K-Means Clustering.
 
 ## Libraries
 
-- [x] [scikit-learn](https://scikit-learn.org/stable/).
-- [x] [TensorFlow](https://www.tensorflow.org/).
+- [x] [scikit-learn](https://scikit-learn.org/stable/) -- w.r.t. all algorithms I've learned and projects I've done so far.
+- [x] [TensorFlow](https://www.tensorflow.org/) -- w.r.t. all algorithms I've learned and projects I've done so far.
+- [x] numpy, matplotlib, pandas -- w.r.t. all algorithms I've learned and projects I've done so far.
 - [ ] [Keras](https://keras.io/).
-- [ ] OpenCV.
+- [ ] [OpenCV](https://opencv.org/).
+
+## Programming Languages
+
+- [x] [Python](https://www.python.org/) -- my [raw notes](https://rawnote.dinhanhthi.com/categories#python) / [note](https://note.dinhanhthi.com/#python).
+- [x] SQL -- my [raw notes](https://rawnote.dinhanhthi.com/tags#sql_cap).
+- [ ] [R](https://www.r-project.org/).
+- [ ] [Scala](https://www.scala-lang.org/)
+
+## Frameworks
+
+- [ ] [Hadoop](https://hadoop.apache.org/).
+- [ ] [Spark](https://spark.apache.org/).
+- [ ] [D3js](https://d3js.org/).
 
 ## Courses
 
