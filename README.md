@@ -8,16 +8,16 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## 🔥 Projects
 
-- [x] [Setting up a café in Ho Chi Minh City](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc).
+- [x] [Setting up a café in Ho Chi Minh City](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc) -- [source](https://github.com/dinhanhthi/cafe-in-hcm).
 
 *I also do some mini-projects for understanding the concepts. You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).*
 
-- [x] Image compression using K-Means.
-- [x] Example to understand the idea of PCA.
-- [x] Image compression using PCA.
-- [x] PCA without scikit-learn.
-- [x] Face Recognition using SVM.
-- [x] XOR problem using SVM to see the effect of gamma and C in the case of using RBF kernel.
+- [x] Image compression using K-Means -- [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/K_Means_image_compression.ipynb).
+- [x] Example to understand the idea of PCA -- [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/PCA_understanding_example.ipynb).
+- [x] Image compression using PCA -- [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/PCA-image-compression.ipynb).
+- [x] PCA without scikit-learn -- [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/PCA_without_scikit_learn.ipynb).
+- [x] Face Recognition using SVM -- [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/SVM-face-recognition.ipynb).
+- [x] XOR problem using SVM to see the effect of gamma and C in the case of using RBF kernel -- [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/SVM-XOR-RBF-kernel-parameters.ipynb).
 
 ## 🤖 Algorithms
 
