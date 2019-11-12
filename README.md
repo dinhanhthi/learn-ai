@@ -14,7 +14,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 *I also do some mini-projects for understanding the concepts. You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).*
 
-- [x] Image compression using K-Means — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/K_Means_image_compression.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1NQGqtr8Byo2FkYcx0hdU2hpoSWsjX-86).
+- [x] Image   compression using K-Means — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/K_Means_image_compression.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1NQGqtr8Byo2FkYcx0hdU2hpoSWsjX-86).
 - [x] Example to understand the idea of PCA — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/PCA_understanding_example.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1F_A_fJOY-oiV7Ly4y_evF9sfwII-ljJK).
 - [x] Image compression using PCA — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/PCA-image-compression.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1G_WPZMmQ020kjSmqMI_k21_zLDrPlYtg).
 - [x] PCA without scikit-learn — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/PCA_without_scikit_learn.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1IWMuon3NSpGybmnBBWxlvbS9yUjxtf_8).
@@ -37,6 +37,9 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] Convolutional Neural Network (CNN).
 
 ## 💡 Concepts
+
+| - [x] Supervised Learning / Unsupervised Learning. - [x] Overfitting (High variance) / Underfitting (High bias). - [x] Cost function. - [x] Gradient Descent. - [x] Forward/Backward propagation. - [x] Cross Validation (K-folds). - [x] Confusion matrix. - [x] Activation functions. - [x] Decision boundary. | - [x] Train / Dev / Test sets. - [x] Pipeline. - [x] **Functions**: Sigmoid, ReLU. - [x] F-test, p-value, f1-score, t-value, z-score. - [x] **Plots**: box plots, heat map plots, line plots, area plots, bar chart, Choropleth map, Waffle chart. - [x] Regular Expressions. - [x] Scaling. - [x] Tuning. |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 - [x] Supervised Learning / Unsupervised Learning.
 - [x] Overfitting (High variance) / Underfitting (High bias).
