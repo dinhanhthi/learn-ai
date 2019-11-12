@@ -38,10 +38,6 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## 💡 Concepts
 
-| Concepts | Concepts |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - [x] Supervised Learning / Unsupervised Learning.<br>- [x] Overfitting (High variance) / Underfitting (High bias).<br>- [x] Cost function.<br>- [x] Gradient Descent.<br>- [x] Forward/Backward propagation.<br>- [x] Cross Validation (K-folds).<br>- [x] Confusion matrix.<br>- [x] Activation functions.<br>- [x] Decision boundary. | - [x] Train / Dev / Test sets.<br>- [x] Pipeline.<br>- [x] **Functions**: Sigmoid, ReLU.<br>- [x] F-test, p-value, f1-score, t-value, z-score.<br>- [x] **Plots**: box plots, heat map plots, line plots, area plots, bar chart, Choropleth map, Waffle chart.<br>- [x] Regular Expressions.<br>- [x] Scaling.<br>- [x] Tuning. |
-
 - [x] Supervised Learning / Unsupervised Learning.
 - [x] Overfitting (High variance) / Underfitting (High bias).
 - [x] Cost function.
