@@ -1,6 +1,10 @@
 # data-science-learning
 
-The list of things I've finished so far on the way of learning by myself Machine Learning and Data Science. I use [rawnote.dinhanhthi.com](http://rawnote.dinhanhthi.com) to catch up with all of the things on the first day I meet them and use [note.dinhanhthi.com](http://note.dinhanhthi.com) for more well-written notes.
+The list of things I've finished so far on the way of learning by myself Machine Learning and Data Science. 
+
+- My raw notes: [rawnote.dinhanhthi.com](http://rawnote.dinhanhthi.com) (quickly capture ideas from the courses).
+- My main notes: [note.dinhanhthi.com](http://note.dinhanhthi.com) (well-written notes, not only for me).
+- [My learning log](https://dinhanhthi.com/my-learning-log).
 
 ## 🤖 Algorithms
 
