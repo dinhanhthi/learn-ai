@@ -1,7 +1,7 @@
 # 🚢 Titanic Disaster
 
 - [Kaggle's URL](https://www.kaggle.com/c/titanic).
-- My Jupyter Notebook.
+- [My Jupyter Notebook](./titanic_kaggle.ipynb).
 
 ## The challenge
 
