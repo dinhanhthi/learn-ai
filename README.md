@@ -8,7 +8,9 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## 🔥 Projects
 
-- [x] [Setting up a café in Ho Chi Minh City](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc) -- [source](https://github.com/dinhanhthi/cafe-in-hcm).
+- [x] Setting up a café in Ho Chi Minh City -- *find a best place to setting up a new business* -- [article](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc) -- [source](https://github.com/dinhanhthi/cafe-in-hcm).
+- [ ] Titanic: Machine Learning from Disaster (from [Kaggle](https://www.kaggle.com/c/titanic)) -- *predicts which passengers survived the Titanic shipwreck*.
+- [ ] "Bull Book for Bulldozers" Kaggle competition.
 
 *I also do some mini-projects for understanding the concepts. You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).*
 
@@ -76,6 +78,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] [Spark](https://spark.apache.org/).
 - [ ] [D3js](https://d3js.org/).
 - [ ] [Docker](https://www.docker.com/).
+- [ ] [Kaggle](https://www.kaggle.com/).
 
 ## ⚒️ Tools
 
