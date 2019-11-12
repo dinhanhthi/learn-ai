@@ -8,9 +8,9 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## 🔥 Projects
 
-- [x] Setting up a café in Ho Chi Minh City — *find a best place to setting up a new business* — [article](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc) — [source](https://github.com/dinhanhthi/cafe-in-hcm).
-- [ ] Titanic: Machine Learning from Disaster (from [Kaggle](https://www.kaggle.com/c/titanic)) — *predicts which passengers survived the Titanic shipwreck* — [source](https://github.com/dinhanhthi/data-science-learning/tree/master/projetcs/kaggle-titanic-disaster).
-- [ ] "Bull Book for Bulldozers" Kaggle competition.
+- [x] **Setting up a café in Ho Chi Minh City** — *find a best place to setting up a new business* — [article](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc) — [source](https://github.com/dinhanhthi/cafe-in-hcm).
+- [ ] **Titanic: Machine Learning from Disaster** (from [Kaggle](https://www.kaggle.com/c/titanic)) — *predicts which passengers survived the Titanic shipwreck* — [source](https://github.com/dinhanhthi/data-science-learning/tree/master/projetcs/kaggle-titanic-disaster).
+- [ ] **"Bull Book for Bulldozers" Kaggle competition**.
 
 *I also do some mini-projects for understanding the concepts. You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).*
 
@@ -23,71 +23,71 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## 🤖 Algorithms
 
-- [x] Linear Regression / Logistic Regression.
-- [x] Support Vector Machine (SVM) — [my note](https://note.dinhanhthi.com/support-vector-machine).
-- [x] Decision Tree — [my note](https://note.dinhanhthi.com/search?q=decision+tree).
-- [x] Random Forest — [my note](https://note.dinhanhthi.com/random-forest).
-- [x] Principal Component Analysis (PCA) — [my note](https://note.dinhanhthi.com/principal-component-analysis).
-- [x] Neural Networks.
-- [x] K-Nearest Neighbors (KNN)
-- [x] K-Means Clustering.
-- [x] Hierarchical Clustering.
-- [x] Density-based Clustering.
-- [ ] Recurrent neural network (RNN).
 - [ ] Convolutional Neural Network (CNN).
+- [x] Decision Tree — [my note](https://note.dinhanhthi.com/search?q=decision+tree).
+- [x] Density-based Clustering.
+- [x] Hierarchical Clustering.
+- [x] K-Means Clustering.
+- [x] K-Nearest Neighbors (KNN)
+- [x] Linear Regression / Logistic Regression.
+- [x] Neural Networks.
+- [x] Principal Component Analysis (PCA) — [my note](https://note.dinhanhthi.com/principal-component-analysis).
+- [x] Random Forest — [my note](https://note.dinhanhthi.com/random-forest).
+- [ ] Recurrent neural network (RNN).
+- [x] Support Vector Machine (SVM) — [my note](https://note.dinhanhthi.com/support-vector-machine).
 
 ## 💡 Concepts
 
-- [x] Supervised Learning / Unsupervised Learning.
-- [x] Overfitting (High variance) / Underfitting (High bias).
-- [x] Cost function.
-- [x] Gradient Descent.
-- [x] Forward/Backward propagation.
-- [x] Cross Validation (K-folds).
-- [x] Confusion matrix.
 - [x] Activation functions.
+- [x] Cost function.
+- [x] Confusion matrix.
+- [x] Cross Validation (K-folds).
 - [x] Decision boundary.
-- [x] Train / Dev / Test sets.
-- [x] Pipeline.
+- [x] Gradient Descent.
 - [x] **Functions**: Sigmoid, ReLU.
 - [x] F-test, p-value, f1-score, t-value, z-score.
+- [x] Forward/Backward propagation.
+- [x] Overfitting (High variance) / Underfitting (High bias).
+- [x] Pipeline.
 - [x] **Plots**: box plots, heat map plots, line plots, area plots, bar chart, Choropleth map, Waffle chart.
 - [x] Regular Expressions.
 - [x] Scaling.
+- [x] Supervised Learning / Unsupervised Learning.
+- [x] Train / Dev / Test sets.
 - [x] Tuning.
 
 ## 🎲 Tasks
 
 - [x] Data Visualization.
+- [ ] Data Wrangling.
 - [x] Model evaluation.
 - [x] Preprocessing (texts, images, dates & times, structured data).
-- [ ] Data Wrangling.
-- [ ] Web Scraping.
 - [ ] Testing.
+- [ ] Web Scraping.
 
 ## 🐍 Programming Languages
 
 - [x] [Python](https://www.python.org/) — [my note](https://note.dinhanhthi.com/#python).
-- [x] SQL.
 - [ ] [R](https://www.r-project.org/).
 - [ ] [Scala](https://www.scala-lang.org/)
+- [x] SQL.
 
 ## ⚙️ Frameworks & Platforms
 
-- [ ] [Hadoop](https://hadoop.apache.org/).
-- [ ] [Spark](https://spark.apache.org/).
 - [ ] [D3js](https://d3js.org/).
 - [ ] [Docker](https://www.docker.com/).
 - [ ] [Kaggle](https://www.kaggle.com/).
+- [ ] [Hadoop](https://hadoop.apache.org/).
+- [ ] [Spark](https://spark.apache.org/).
 
 ## ⚒️ Tools
 
 - [x] Git — [my note](https://note.dinhanhthi.com/git).
-- [x] Markdown — [my note](https://note.dinhanhthi.com/markdown).
 - [x] Google Colab — [my note](https://note.dinhanhthi.com/google-colab).
+- [ ] GridSearch.
+- [x] Markdown — [my note](https://note.dinhanhthi.com/markdown).
 - [x] Jupyter Notebook — [my note](https://note.dinhanhthi.com/jupyter-notebook).
 - [ ] PostgreSQL.
-- [ ] GridSearch.
 
 ## 📚 Libraries
 
