@@ -9,7 +9,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 ## 🔥 Projects
 
 - [x] Setting up a café in Ho Chi Minh City -- *find a best place to setting up a new business* -- [article](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc) -- [source](https://github.com/dinhanhthi/cafe-in-hcm).
-- [ ] Titanic: Machine Learning from Disaster (from [Kaggle](https://www.kaggle.com/c/titanic)) -- *predicts which passengers survived the Titanic shipwreck*.
+- [ ] Titanic: Machine Learning from Disaster (from [Kaggle](https://www.kaggle.com/c/titanic)) -- *predicts which passengers survived the Titanic shipwreck* -- [source](https://github.com/dinhanhthi/data-science-learning/tree/master/projetcs/kaggle-titanic-disaster).
 - [ ] "Bull Book for Bulldozers" Kaggle competition.
 
 *I also do some mini-projects for understanding the concepts. You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).*
@@ -49,9 +49,9 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Decision boundary.
 - [x] Train / Dev / Test sets.
 - [x] Pipeline.
-- [x] Functions: Sigmoid, ReLU.
+- [x] **Functions**: Sigmoid, ReLU.
 - [x] F-test, p-value, f1-score, t-value, z-score.
-- [x] Plots: box plots, heat map plots, line plots, area plots, bar chart, Choropleth map, Waffle chart.
+- [x] **Plots**: box plots, heat map plots, line plots, area plots, bar chart, Choropleth map, Waffle chart.
 - [x] Regular Expressions.
 - [x] Scaling.
 - [x] Tuning.
@@ -103,12 +103,15 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 *The "non-checked" courses are under the way to be finished!*
 
-- [x] [**Machine Learning**](https://www.coursera.org/learn/machine-learning) by Andew NG on Coursera. It introduces a general idea about ML and some commonly used algorithms. [My note](https://rawnote.dinhanhthi.com/tags#ml-coursera) for this course.
-- [x] **[IBM Data Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)** specialization on Coursera. It contains 9 sub-courses covering fundamental knowledge about data science. [My note](https://rawnote.dinhanhthi.com/tags#ibm-data) for this course.
-- [ ] **[Data Scientist](https://www.dataquest.io/path/data-scientist)** path & **[Data Engineer](https://www.dataquest.io/path/data-engineer/)** path on Dataquest. Both of them contain many sub-courses covering all about Data Science. [My note](https://rawnote.dinhanhthi.com/tags#dataquest) for this course.
+- [x] [**Machine Learning**](https://www.coursera.org/learn/machine-learning) by Andew NG on Coursera. It introduces a general idea about ML and some commonly used algorithms -- [my note](https://rawnote.dinhanhthi.com/tags#ml-coursera).
+- [x] **[IBM Data Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)** specialization on Coursera. It contains 9 sub-courses covering fundamental knowledge about data science --[my note](https://rawnote.dinhanhthi.com/tags#ibm-data).
+- [x] **[Learn Python 3](https://www.codecademy.com/learn/learn-python-3)** on Codecademy -- [my note](https://rawnote.dinhanhthi.com/codecademy-python-1).
+- [x] **[Learn SQL](https://www.codecademy.com/learn/learn-sql)** on Codecademy.
+- [ ] **[Data Scientist](https://www.dataquest.io/path/data-scientist)** path & **[Data Engineer](https://www.dataquest.io/path/data-engineer/)** path on Dataquest. Both of them contain many sub-courses covering all about Data Science -- [my note](https://rawnote.dinhanhthi.com/tags#dataquest).
 - [ ] **[Data Science Path](https://www.codecademy.com/learn/paths/data-science)** on Codecademy. It contains 27 sub-courses covering all necessary knowledge about data science.
 - [ ] **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** by Andrew NG on Coursera. It contains 5 courses covering the foundations of Deep Learning (CNN, RNN, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization,...). Many case studies projects are proposed.
 - [ ] [**fast.ai**'s courses](https://www.fast.ai/) for Machine Learning and Deep Learning.
+- [ ] Google's [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
 
 ## 📖 Books
 
