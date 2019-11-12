@@ -6,6 +6,19 @@ The list of things I've finished so far on the way of learning by myself Machine
 - My main notes: [note.dinhanhthi.com](http://note.dinhanhthi.com) (well-written notes, not only for me).
 - [My learning log](https://dinhanhthi.com/my-learning-log).
 
+## 🔥 Projects
+
+- [x] [Setting up a café in Ho Chi Minh City](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc).
+
+*I also do some mini-projects for understanding the concepts. You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).*
+
+- [x] Image compression using K-Means.
+- [x] Example to understand the idea of PCA.
+- [x] Image compression using PCA.
+- [x] PCA without scikit-learn.
+- [x] Face Recognition using SVM.
+- [x] XOR problem using SVM to see the effect of gamma and C in the case of using RBF kernel.
+
 ## 🤖 Algorithms
 
 - [x] Linear Regression / Logistic Regression.
@@ -21,7 +34,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] Recurrent neural network (RNN).
 - [ ] Convolutional Neural Network (CNN).
 
-### 💡 Concepts
+## 💡 Concepts
 
 - [x] Supervised Learning / Unsupervised Learning.
 - [x] Overfitting (High variance) / Underfitting (High bias).
@@ -37,31 +50,18 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Functions: Sigmoid, ReLU.
 - [x] F-test, p-value, f1-score, t-value, z-score.
 - [x] Plots: box plots, heat map plots, line plots, area plots, bar chart, Choropleth map, Waffle chart.
+- [x] Regular Expressions.
+- [x] Scaling.
+- [x] Tuning.
 
-## 🔥 Projects
+## 🎲 Tasks
 
-- [x] [Setting up a café in Ho Chi Minh City](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc).
-
-### 💡 Mini-projects for understanding the concepts
-
-*You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).*
-
-- [x] Image compression using K-Means.
-- [x] Example to understand the idea of PCA.
-- [x] Image compression using PCA.
-- [x] PCA without scikit-learn.
-- [x] Face Recognition using SVM.
-- [x] XOR problem using SVM to see the effect of gamma and C in the case of using RBF kernel.
-
-## 📚 Libraries
-
-*The "ticked" libraries don't mean that I've known/understand whole of them (but I can easily use them with their documentation)!*
-
-- [x] [scikit-learn](https://scikit-learn.org/stable/) -- *w.r.t. all algorithms I've learned and projects I've done so far*.
-- [x] [TensorFlow](https://www.tensorflow.org/) -- *w.r.t. all algorithms I've learned and projects I've done so far*.
-- [x] [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/) -- *w.r.t. all algorithms I've learned and projects I've done so far*.
-- [ ] [Keras](https://keras.io/).
-- [ ] [OpenCV](https://opencv.org/).
+- [x] Data Visualization.
+- [x] Model evaluation.
+- [x] Preprocessing (texts, images, dates & times, structured data).
+- [ ] Data Wrangling.
+- [ ] Web Scraping. 
+- [ ] Testing.
 
 ## 🐍 Programming Languages
 
@@ -84,6 +84,17 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Google Colab -- [my note](https://note.dinhanhthi.com/google-colab).
 - [x] Jupyter Notebook -- [my note](https://note.dinhanhthi.com/jupyter-notebook).
 - [ ] PostgreSQL.
+- [ ] GridSearch.
+
+## 📚 Libraries
+
+*The "ticked" libraries don't mean that I've known/understand whole of them (but I can easily use them with their documentation)!*
+
+- [x] [scikit-learn](https://scikit-learn.org/stable/) -- *w.r.t. all algorithms I've learned and projects I've done so far*.
+- [x] [TensorFlow](https://www.tensorflow.org/) -- *w.r.t. all algorithms I've learned and projects I've done so far*.
+- [x] [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/) -- *w.r.t. all algorithms I've learned and projects I've done so far*.
+- [ ] [Keras](https://keras.io/).
+- [ ] [OpenCV](https://opencv.org/).
 
 ## 👨‍🏫 Courses
 
