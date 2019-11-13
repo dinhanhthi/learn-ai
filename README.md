@@ -26,14 +26,17 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] Convolutional Neural Network (CNN).
 - [x] Decision Tree — [my note](https://note.dinhanhthi.com/search?q=decision+tree).
 - [x] Density-based Clustering.
+- [ ] Gaussian Naive Bayes.
 - [x] Hierarchical Clustering.
 - [x] K-Means Clustering.
 - [x] K-Nearest Neighbors (KNN)
 - [x] Linear Regression / Logistic Regression.
 - [x] Neural Networks.
+- [ ] Perceptron.
 - [x] Principal Component Analysis (PCA) — [my note](https://note.dinhanhthi.com/principal-component-analysis).
 - [x] Random Forest — [my note](https://note.dinhanhthi.com/random-forest).
 - [ ] Recurrent neural network (RNN).
+- [ ] Stochastic Gradient Decent (SGD).
 - [x] Support Vector Machine (SVM) — [my note](https://note.dinhanhthi.com/support-vector-machine).
 
 ## 💡 Concepts
@@ -54,7 +57,8 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Scaling.
 - [x] Supervised Learning / Unsupervised Learning.
 - [x] Train / Dev / Test sets.
-- [x] Tuning.
+- [ ] Tuning.
+- [x] Whitening.
 
 ## 🎲 Tasks
 
