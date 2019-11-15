@@ -133,12 +133,12 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] **[An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)** by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirami.
 - [ ] **[The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://web.stanford.edu/~hastie/ElemStatLearn/)** by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
 
-## Github's repositories
+## 🤖 Github's repositories
 
-- **Awesome's lists**:
+- **Awesome's lists** ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg):
   - **[Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)** — A curated list of data engineering tools for software developers.
   - **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)** — A curated list of awesome Deep Learning tutorials, projects and communities.
-  - **Awesome Deep learning papers and other resources** — Deep Learning and deep reinforcement learning research papers and some codes.
+  - **[Awesome Deep learning papers and other resources](https://github.com/endymecy/awesome-deeplearning-resources)** — Deep Learning and deep reinforcement learning research papers and some codes.
   - **[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)** — A topic-centric list of HQ open datasets.
   - **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** — A curated list of awesome Machine Learning frameworks, libraries and software.
   - **[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)** — A curated list of awesome big data frameworks, ressources and other awesomeness.
@@ -152,7 +152,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - **[Data science blogs](https://github.com/rushter/data-science-blogs)** — A curated list of data science blogs.
 - **[data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)** — DS Python notebooks: DL (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 
-## Other resources
+## 🌏 Other resources
 
 - **[Papers With Code](https://paperswithcode.com/)** — a free and open resource with Machine Learning papers, code and evaluation tables.
 - **Chris Albon's notes** — Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
