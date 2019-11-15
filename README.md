@@ -135,7 +135,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## 🤖 Github's repositories
 
-- **Awesome's lists** ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg):
+- **Awesome's lists**:
   - **[Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)** — A curated list of data engineering tools for software developers.
   - **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)** — A curated list of awesome Deep Learning tutorials, projects and communities.
   - **[Awesome Deep learning papers and other resources](https://github.com/endymecy/awesome-deeplearning-resources)** — Deep Learning and deep reinforcement learning research papers and some codes.
