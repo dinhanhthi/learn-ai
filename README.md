@@ -9,7 +9,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 ## 🔥 Projects
 
 - [x] Setting up a café in Ho Chi Minh City — *find a best place to setting up a new business* — [article](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc) — [source](https://github.com/dinhanhthi/cafe-in-hcm).
-- [ ] Titanic: Machine Learning from Disaster (from [Kaggle](https://www.kaggle.com/c/titanic)) — *predicts which passengers survived the Titanic shipwreck* — [source](https://github.com/dinhanhthi/data-science-learning/tree/master/projetcs/kaggle-titanic-disaster).
+- [x] Titanic: Machine Learning from Disaster (from [Kaggle](https://www.kaggle.com/c/titanic)) — *predicts which passengers survived the Titanic shipwreck* — [source](https://github.com/dinhanhthi/data-science-learning/tree/master/projetcs/kaggle-titanic-disaster).
 - [ ] "Bull Book for Bulldozers" Kaggle competition.
 
 *I also do some mini-projects for understanding the concepts. You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).*
@@ -72,21 +72,20 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## 🐍 Programming Languages
 
-- [ ] [GraphQL](https://graphql.org/).
-- [x] [Python](https://www.python.org/) — [my note](https://note.dinhanhthi.com/#python).
-- [ ] [R](https://www.r-project.org/).
-- [ ] [Scala](https://www.scala-lang.org/)
-- [x] SQL.
+- [ ] [GraphQL](https://graphql.org/) — *an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data*.
+- [x] [Python](https://www.python.org/) — *an interpreted, high-level, general-purpose programming language* — [my note](https://note.dinhanhthi.com/#python).
+- [ ] [R](https://www.r-project.org/) — *a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing*.
+- [ ] [Scala](https://www.scala-lang.org/) — *a general-purpose programming language providing support for functional programming and a strong static type system*.
+- [x] SQL — *a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system*.
 
 ## ⚙️ Frameworks & Platforms
 
-- [ ] [D3js](https://d3js.org/).
-- [ ] [Docker](https://www.docker.com/).
+- [ ] [Docker](https://www.docker.com/) — *a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers*.
 - [x] [Google Colab](https://colab.research.google.com/) — *a free cloud service, based on Jupyter Notebooks for machine-learning education and research* — [my note](https://note.dinhanhthi.com/google-colab).
-- [ ] [Kaggle](https://www.kaggle.com/).
-- [ ] [Hadoop](https://hadoop.apache.org/).
-- [ ] [PostgreSQL](https://www.postgresql.org/).
-- [ ] [Spark](https://spark.apache.org/).
+- [ ] [Kaggle](https://www.kaggle.com/) — *an online community of data scientists and machine learners, owned by Google*.
+- [ ] [Hadoop](https://hadoop.apache.org/) — *a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation*.
+- [ ] [PostgreSQL](https://www.postgresql.org/) (Postgres) — *a free and open-source relational database management system emphasizing extensibility and technical standards compliance*.
+- [ ] [Spark](https://spark.apache.org/) — *an open-source distributed general-purpose cluster-computing framework*.
 
 ## ⚒️ Tools
 
@@ -99,12 +98,15 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 *The "ticked" libraries don't mean that I've known/understand whole of them (but I can easily use them with their documentation)!*
 
-- [x] [scikit-learn](https://scikit-learn.org/stable/) — *w.r.t. all algorithms I've learned and projects I've done so far*.
-- [x] [TensorFlow](https://www.tensorflow.org/) — *w.r.t. all algorithms I've learned and projects I've done so far*.
-- [x] [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/) — *w.r.t. all algorithms I've learned and projects I've done so far*.
-- [ ] [Keras](https://keras.io/).
-- [ ] [OpenCV](https://opencv.org/).
-- [x] [Seaborn](https://seaborn.pydata.org/).
+- [ ] [D3js](https://d3js.org/) — *a JavaScript library for producing dynamic, interactive data visualizations in web browsers*.
+- [ ] [Keras](https://keras.io/) — *an open-source neural-network library written in Python*.
+- [x] [Matplotlib](https://matplotlib.org/) — *a plotting library for the Python programming language and its numerical mathematics extension NumPy*.
+- [x] [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/) — *a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays*.
+- [ ] [OpenCV](https://opencv.org/) — *a library of programming functions mainly aimed at real-time computer vision*.
+- [x] [pandas](https://pandas.pydata.org/) — *a software library written for the Python programming language for data manipulation and analysis*.
+- [x] [Seaborn](https://seaborn.pydata.org/) — *a Python data visualization library based on matplotlib*.
+- [x] [scikit-learn](https://scikit-learn.org/stable/) — *a free software machine learning library for the Python programming language*.
+- [x] [TensorFlow](https://www.tensorflow.org/) — *a free and open-source software library for dataflow and differentiable programming across a range of tasks.*.
 
 ## 👨‍🏫 Courses
 
@@ -130,6 +132,10 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] **[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)** by François Chollet.
 - [ ] **[An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)** by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirami.
 - [ ] **[The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://web.stanford.edu/~hastie/ElemStatLearn/)** by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
+
+---
+
+*The descriptions of terms in this site are borrowed from Wikipedia.*
 
 
 
