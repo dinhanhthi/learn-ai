@@ -82,9 +82,9 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 - [ ] [**Docker**](https://www.docker.com/) — a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
 - [x] [**Google Colab**](https://colab.research.google.com/) — a free cloud service, based on Jupyter Notebooks for machine-learning education and research — [my note](https://note.dinhanhthi.com/google-colab).
-- [ ] [**Kaggle**](https://www.kaggle.com/) — an online community of data scientists and machine learners, owned by Google.
+- [x] [**Kaggle**](https://www.kaggle.com/) — an online community of data scientists and machine learners, owned by Google.
 - [ ] [**Hadoop**](https://hadoop.apache.org/) — a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation.
-- [ ] [**PostgreSQL**](https://www.postgresql.org/) (Postgres) — a free and open-source relational database management system emphasizing extensibility and technical standards compliance.
+- [x] [**PostgreSQL**](https://www.postgresql.org/) (Postgres) — a free and open-source relational database management system emphasizing extensibility and technical standards compliance.
 - [ ] [**Spark**](https://spark.apache.org/) — an open-source distributed general-purpose cluster-computing framework.
 
 ## ⚒️ Tools
@@ -117,7 +117,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] **[Learn Python 3](https://www.codecademy.com/learn/learn-python-3)** on Codecademy — [my note](https://rawnote.dinhanhthi.com/codecademy-python-1) — [my certificate](https://www.codecademy.com/profiles/dinhanhthi).
 - [x] **[Learn SQL](https://www.codecademy.com/learn/learn-sql)** on Codecademy — [my certificate](https://www.codecademy.com/profiles/dinhanhthi).
 - [x] **[Introduction to Statistics with NumPy](https://www.codecademy.com/learn/intro-statistics-numpy)** on Codecademy — [my certificate](https://www.codecademy.com/profiles/dinhanhthi).
-- [ ] **[Data Scientist](https://www.dataquest.io/path/data-scientist)** path & **[Data Engineer](https://www.dataquest.io/path/data-engineer/)** path on Dataquest. Both of them contain many sub-courses covering all about Data Science — [my note](https://rawnote.dinhanhthi.com/tags#dataquest) — [my certificate](https://app.dataquest.io/profile/dinhanhthimail).
+- [x] **[Data Scientist](https://www.dataquest.io/path/data-scientist)** path & **[Data Engineer](https://www.dataquest.io/path/data-engineer/)** path on Dataquest. Both of them contain many sub-courses covering all about Data Science — [my note](https://rawnote.dinhanhthi.com/tags#dataquest) — [my certificate](https://app.dataquest.io/profile/dinhanhthi).
 - [ ] **[Data Science Path](https://www.codecademy.com/learn/paths/data-science)** on Codecademy. It contains 27 sub-courses covering all necessary knowledge about data science — [my certificate](https://www.codecademy.com/profiles/dinhanhthi).
 - [ ] **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** by Andrew NG on Coursera. It contains 5 courses covering the foundations of Deep Learning (CNN, RNN, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization,...). Many case studies projects are proposed.
 - [ ] [**fast.ai**'s courses](https://www.fast.ai/) for Machine Learning and Deep Learning.
@@ -132,6 +132,31 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] **[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)** by François Chollet.
 - [ ] **[An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)** by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirami.
 - [ ] **[The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://web.stanford.edu/~hastie/ElemStatLearn/)** by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
+
+## Github's repositories
+
+- **Awesome's lists**:
+  - **[Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)** — A curated list of data engineering tools for software developers.
+  - **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)** — A curated list of awesome Deep Learning tutorials, projects and communities.
+  - **Awesome Deep learning papers and other resources** — Deep Learning and deep reinforcement learning research papers and some codes.
+  - **[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)** — A topic-centric list of HQ open datasets.
+  - **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** — A curated list of awesome Machine Learning frameworks, libraries and software.
+  - **[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)** — A curated list of awesome big data frameworks, ressources and other awesomeness.
+- **[120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)** — Answers to 120 commonly asked data science interview questions.
+- **[A Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course)** — Machine Learning Course with Python. Refer to the course page for step-by-step explanations.
+- **[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)** — Python Data Science Handbook: full text in Jupyter Notebooks.
+- **[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)** — Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained.
+- **[TensorFlow-Course](https://github.com/machinelearningmindset/TensorFlow-Course)** — Simple and ready-to-use tutorials for TensorFlow.
+- **[Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)** — ML and DL tutorials, articles and other resources.
+- **[100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)**.
+- **[Data science blogs](https://github.com/rushter/data-science-blogs)** — A curated list of data science blogs.
+- **[data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)** — DS Python notebooks: DL (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+
+## Other resources
+
+- **[Papers With Code](https://paperswithcode.com/)** — a free and open resource with Machine Learning papers, code and evaluation tables.
+- **Chris Albon's notes** — Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
+- **[Seeing Theory](https://seeing-theory.brown.edu/)** — A visual introduction to probabilities and statistics.
 
 ---
 
