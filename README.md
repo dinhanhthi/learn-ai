@@ -8,9 +8,9 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## 🔥 Projects
 
-- [x] **Setting up a café in Ho Chi Minh City** — *find a best place to setting up a new business* — [article](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc) — [source](https://github.com/dinhanhthi/cafe-in-hcm).
-- [ ] **Titanic: Machine Learning from Disaster** (from [Kaggle](https://www.kaggle.com/c/titanic)) — *predicts which passengers survived the Titanic shipwreck* — [source](https://github.com/dinhanhthi/data-science-learning/tree/master/projetcs/kaggle-titanic-disaster).
-- [ ] **"Bull Book for Bulldozers" Kaggle competition**.
+- [x] Setting up a café in Ho Chi Minh City — *find a best place to setting up a new business* — [article](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc) — [source](https://github.com/dinhanhthi/cafe-in-hcm).
+- [ ] Titanic: Machine Learning from Disaster (from [Kaggle](https://www.kaggle.com/c/titanic)) — *predicts which passengers survived the Titanic shipwreck* — [source](https://github.com/dinhanhthi/data-science-learning/tree/master/projetcs/kaggle-titanic-disaster).
+- [ ] "Bull Book for Bulldozers" Kaggle competition.
 
 *I also do some mini-projects for understanding the concepts. You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).*
 
@@ -47,13 +47,14 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Cross Validation (K-folds).
 - [x] Decision boundary.
 - [x] Gradient Descent.
+- [ ] GridSearch.
 - [x] **Functions**: Sigmoid, ReLU.
 - [x] F-test, p-value, f1-score, t-value, z-score.
 - [x] Forward/Backward propagation.
 - [x] Overfitting (High variance) / Underfitting (High bias).
 - [x] Pipeline.
-- [x] **Plots**: box plots, heat map plots, line plots, area plots, bar chart, Choropleth map, Waffle chart.
-- [x] Regular Expressions.
+- [x] **Plots** / **Charts**: box plots, heat map plots, line plots, area plots, bar chart, choropleth map, waffle chart, factorplot.
+- [x] Regular Expressions (RegEx).
 - [x] Scaling.
 - [x] Supervised Learning / Unsupervised Learning.
 - [x] Train / Dev / Test sets.
@@ -71,6 +72,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## 🐍 Programming Languages
 
+- [ ] [GraphQL](https://graphql.org/).
 - [x] [Python](https://www.python.org/) — [my note](https://note.dinhanhthi.com/#python).
 - [ ] [R](https://www.r-project.org/).
 - [ ] [Scala](https://www.scala-lang.org/)
@@ -80,18 +82,18 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 - [ ] [D3js](https://d3js.org/).
 - [ ] [Docker](https://www.docker.com/).
+- [x] [Google Colab](https://colab.research.google.com/) — *a free cloud service, based on Jupyter Notebooks for machine-learning education and research* — [my note](https://note.dinhanhthi.com/google-colab).
 - [ ] [Kaggle](https://www.kaggle.com/).
 - [ ] [Hadoop](https://hadoop.apache.org/).
+- [ ] [PostgreSQL](https://www.postgresql.org/).
 - [ ] [Spark](https://spark.apache.org/).
 
 ## ⚒️ Tools
 
-- [x] Git — [my note](https://note.dinhanhthi.com/git).
-- [x] Google Colab — [my note](https://note.dinhanhthi.com/google-colab).
-- [ ] GridSearch.
-- [x] Markdown — [my note](https://note.dinhanhthi.com/markdown).
-- [x] Jupyter Notebook — [my note](https://note.dinhanhthi.com/jupyter-notebook).
-- [ ] PostgreSQL.
+- [x] [Git](https://git-scm.com/) — *a distributed version-control system for tracking changes in source code during software development* — [my note](https://note.dinhanhthi.com/git).
+- [x] Markdown — *a lightweight markup language with plain text formatting syntax* — [my note](https://note.dinhanhthi.com/markdown).
+- [x] [Jupyter Notebook](https://jupyter.org/) — *an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text* — [my note](https://note.dinhanhthi.com/jupyter-notebook).
+- [x] [Trello](https://trello.com/) — *a web-based Kanban-style list-making application*.
 
 ## 📚 Libraries
 
@@ -102,6 +104,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/) — *w.r.t. all algorithms I've learned and projects I've done so far*.
 - [ ] [Keras](https://keras.io/).
 - [ ] [OpenCV](https://opencv.org/).
+- [x] [Seaborn](https://seaborn.pydata.org/).
 
 ## 👨‍🏫 Courses
 
