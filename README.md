@@ -72,41 +72,41 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## 🐍 Programming Languages
 
-- [ ] [GraphQL](https://graphql.org/) — *an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data*.
-- [x] [Python](https://www.python.org/) — *an interpreted, high-level, general-purpose programming language* — [my note](https://note.dinhanhthi.com/#python).
-- [ ] [R](https://www.r-project.org/) — *a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing*.
-- [ ] [Scala](https://www.scala-lang.org/) — *a general-purpose programming language providing support for functional programming and a strong static type system*.
-- [x] SQL — *a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system*.
+- [ ] [GraphQL](https://graphql.org/) — an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data.
+- [x] [Python](https://www.python.org/) — an interpreted, high-level, general-purpose programming language — [my note](https://note.dinhanhthi.com/#python).
+- [ ] [R](https://www.r-project.org/) — a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.
+- [ ] [Scala](https://www.scala-lang.org/) — a general-purpose programming language providing support for functional programming and a strong static type system.
+- [x] SQL — a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system.
 
 ## ⚙️ Frameworks & Platforms
 
-- [ ] [Docker](https://www.docker.com/) — *a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers*.
-- [x] [Google Colab](https://colab.research.google.com/) — *a free cloud service, based on Jupyter Notebooks for machine-learning education and research* — [my note](https://note.dinhanhthi.com/google-colab).
-- [ ] [Kaggle](https://www.kaggle.com/) — *an online community of data scientists and machine learners, owned by Google*.
-- [ ] [Hadoop](https://hadoop.apache.org/) — *a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation*.
-- [ ] [PostgreSQL](https://www.postgresql.org/) (Postgres) — *a free and open-source relational database management system emphasizing extensibility and technical standards compliance*.
-- [ ] [Spark](https://spark.apache.org/) — *an open-source distributed general-purpose cluster-computing framework*.
+- [ ] [Docker](https://www.docker.com/) — a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
+- [x] [Google Colab](https://colab.research.google.com/) — a free cloud service, based on Jupyter Notebooks for machine-learning education and research — [my note](https://note.dinhanhthi.com/google-colab).
+- [ ] [Kaggle](https://www.kaggle.com/) — an online community of data scientists and machine learners, owned by Google.
+- [ ] [Hadoop](https://hadoop.apache.org/) — a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation.
+- [ ] [PostgreSQL](https://www.postgresql.org/) (Postgres) — a free and open-source relational database management system emphasizing extensibility and technical standards compliance.
+- [ ] [Spark](https://spark.apache.org/) — an open-source distributed general-purpose cluster-computing framework.
 
 ## ⚒️ Tools
 
-- [x] [Git](https://git-scm.com/) — *a distributed version-control system for tracking changes in source code during software development* — [my note](https://note.dinhanhthi.com/git).
-- [x] Markdown — *a lightweight markup language with plain text formatting syntax* — [my note](https://note.dinhanhthi.com/markdown).
-- [x] [Jupyter Notebook](https://jupyter.org/) — *an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text* — [my note](https://note.dinhanhthi.com/jupyter-notebook).
-- [x] [Trello](https://trello.com/) — *a web-based Kanban-style list-making application*.
+- [x] [Git](https://git-scm.com/) — a distributed version-control system for tracking changes in source code during software development — [my note](https://note.dinhanhthi.com/git).
+- [x] Markdown — a lightweight markup language with plain text formatting syntax — [my note](https://note.dinhanhthi.com/markdown).
+- [x] [Jupyter Notebook](https://jupyter.org/) — an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text — [my note](https://note.dinhanhthi.com/jupyter-notebook).
+- [x] [Trello](https://trello.com/) — a web-based Kanban-style list-making application.
 
 ## 📚 Libraries
 
 *The "ticked" libraries don't mean that I've known/understand whole of them (but I can easily use them with their documentation)!*
 
-- [ ] [D3js](https://d3js.org/) — *a JavaScript library for producing dynamic, interactive data visualizations in web browsers*.
-- [ ] [Keras](https://keras.io/) — *an open-source neural-network library written in Python*.
-- [x] [Matplotlib](https://matplotlib.org/) — *a plotting library for the Python programming language and its numerical mathematics extension NumPy*.
-- [x] [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/) — *a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays*.
-- [ ] [OpenCV](https://opencv.org/) — *a library of programming functions mainly aimed at real-time computer vision*.
-- [x] [pandas](https://pandas.pydata.org/) — *a software library written for the Python programming language for data manipulation and analysis*.
-- [x] [Seaborn](https://seaborn.pydata.org/) — *a Python data visualization library based on matplotlib*.
-- [x] [scikit-learn](https://scikit-learn.org/stable/) — *a free software machine learning library for the Python programming language*.
-- [x] [TensorFlow](https://www.tensorflow.org/) — *a free and open-source software library for dataflow and differentiable programming across a range of tasks.*.
+- [ ] [D3js](https://d3js.org/) — a JavaScript library for producing dynamic, interactive data visualizations in web browsers.
+- [ ] [Keras](https://keras.io/) — an open-source neural-network library written in Python.
+- [x] [Matplotlib](https://matplotlib.org/) — a plotting library for the Python programming language and its numerical mathematics extension NumPy.
+- [x] [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/) — a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+- [ ] [OpenCV](https://opencv.org/) — a library of programming functions mainly aimed at real-time computer vision.
+- [x] [pandas](https://pandas.pydata.org/) — a software library written for the Python programming language for data manipulation and analysis.
+- [x] [Seaborn](https://seaborn.pydata.org/) — a Python data visualization library based on matplotlib.
+- [x] [scikit-learn](https://scikit-learn.org/stable/) — a free software machine learning library for the Python programming language.
+- [x] [TensorFlow](https://www.tensorflow.org/) — a free and open-source software library for dataflow and differentiable programming across a range of tasks..
 
 ## 👨‍🏫 Courses
 
