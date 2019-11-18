@@ -1,6 +1,6 @@
-# reading-ISL
+# Reading: An Introduction to Statistical Learning
 
-All assignments I've done in the book "An Introduction to Statistical Learning" by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirami.
+All assignments I've done in the book "**An Introduction to Statistical Learning**" by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirami.
 
 The files `chapXX_concentual.ipynb` contains **Conceptual** exercises' solution and files `chapXX_applied.ipynb` contains **Applied** exercises' solution (in Python instead of R).
 

@@ -160,7 +160,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - **[Papers With Code](https://paperswithcode.com/)** — a free and open resource with Machine Learning papers, code and evaluation tables.
 - **[Chris Albon's notes](https://chrisalbon.com/)** — Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - **[Seeing Theory](https://seeing-theory.brown.edu/)** — A visual introduction to probabilities and statistics.
-- [Collection of useful articles](./good-articles.md) about ML, AI and DS.
+- [**Collection of useful articles for understanding concepts**](./good-articles.md) in ML, AI and DS.
 
 ---
 
