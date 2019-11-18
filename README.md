@@ -36,12 +36,14 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Principal Component Analysis (PCA) — [my note](https://note.dinhanhthi.com/principal-component-analysis).
 - [x] Random Forest — [my note](https://note.dinhanhthi.com/random-forest).
 - [ ] Recurrent neural network (RNN).
+- [ ] Singular Value Decomposition (SVD).
 - [ ] Stochastic Gradient Decent (SGD).
 - [x] Support Vector Machine (SVM) — [my note](https://note.dinhanhthi.com/support-vector-machine).
 
 ## 💡 Concepts
 
 - [x] Activation functions.
+- [ ] Active learning (ML).
 - [x] Cost function.
 - [x] Confusion matrix.
 - [x] Cross Validation (K-folds).
@@ -127,10 +129,11 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 *The "non-checked" books are under the way to be finished!*
 
-- [ ] **[Machine Learning Yearing](https://www.deeplearning.ai/machine-learning-yearning/)** by Andew NG.
-- [ ] **[Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)** (2nd edition) by Aurélien Géron.
-- [ ] **[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)** by François Chollet.
 - [ ] **[An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)** by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirami.
+- [ ] **[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)** by François Chollet.
+- [ ] **[Dive into Deep Learning](https://d2l.ai/index.html)** — An interactive deep learning book with code, math, and discussions, based on the NumPy interface. — [Github](https://github.com/d2l-ai/d2l-en).
+- [ ] **[Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)** (2nd edition) by Aurélien Géron.
+- [ ] **[Machine Learning Yearing](https://www.deeplearning.ai/machine-learning-yearning/)** by Andew NG.
 - [ ] **[The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://web.stanford.edu/~hastie/ElemStatLearn/)** by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
 
 ## 🤖 Github's repositories
@@ -157,6 +160,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - **[Papers With Code](https://paperswithcode.com/)** — a free and open resource with Machine Learning papers, code and evaluation tables.
 - **[Chris Albon's notes](https://chrisalbon.com/)** — Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters.
 - **[Seeing Theory](https://seeing-theory.brown.edu/)** — A visual introduction to probabilities and statistics.
+- [Collection of useful articles](./good-articles.md) about ML, AI and DS.
 
 ---
 
