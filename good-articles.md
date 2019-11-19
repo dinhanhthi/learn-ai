@@ -7,10 +7,11 @@ The articles are grouped by subjects and alphabet orders.
 
 ## Deep Learning
 
-- [Your first Deep Learning project in Python with Keras step by step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) by Jason Brownlee.
+- [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html) — Keras blog.
+- [Your first Deep Learning project in Python with Keras step by step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) — Jason Brownlee — Machine Learning Mastery.
 
 
 ## Anomaly Detection
 
-- [Novelty and Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html) on scikit-learn.
-- [Time Series of Price Anomaly Detection](https://towardsdatascience.com/time-series-of-price-anomaly-detection-13586cd5ff46) by Susan Li.
+- [Novelty and Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html) — scikit-learn docs.
+- [Time Series of Price Anomaly Detection](https://towardsdatascience.com/time-series-of-price-anomaly-detection-13586cd5ff46) — Susan Li — Toward Data Science.
