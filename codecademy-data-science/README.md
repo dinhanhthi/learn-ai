@@ -2,7 +2,7 @@
 
 This folder contains codes & "my-way descriptions" when I follow [Data Science path](https://www.codecademy.com/learn/paths/data-science) on Codecademy.
 
-**Note**: Unlike dataquest or deelearning.ai, this folder only contains the important codes & nodes (for me).
+**Note**: Unlike my notes for [dataquest](https://github.com/dinhanhthi/dataquest-aio) or [deelearning.ai](https://github.com/dinhanhthi/deeplearning.ai-notes), this folder only contains the important codes & nodes (for me).
 
 ## What's in the path?
 
@@ -25,9 +25,9 @@ This folder contains codes & "my-way descriptions" when I follow [Data Science p
 - [ ] Practical Data Cleaning
 - [ ] Data Analysis Capstone Projects
 - [ ] Learn Web Scraping with Beautiful Soup
-- [ ] Machine Learning: Supervised Learning 🤖
+- [ ] Machine Learning: Supervised Learning
 - [ ] Supervised Machine Learning Cumulative Project
-- [ ] Machine Learning: Unsupervised Learning 🤖
+- [ ] Machine Learning: Unsupervised Learning
 - [ ] Unsupervised Machine Learning Cumulative Project
 - [ ] Perceptrons and Neural Nets
 - [ ] Machine Learning Capstone Project
