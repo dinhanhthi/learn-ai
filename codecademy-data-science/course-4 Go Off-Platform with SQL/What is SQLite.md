@@ -29,5 +29,3 @@ In this article we will be exploring the extremely prevalent database engine cal
 - On Linux: `sudo apt-get install sqlite3`
   - `sqlite3 newdb.sqlite` to run
   - exit: `.exit` and then press `Enter`
-- 
-
