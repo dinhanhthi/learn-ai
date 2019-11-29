@@ -4,7 +4,7 @@ This folder contains codes & "my-way descriptions" when I follow [Data Science p
 
 **Note**: Unlike my notes for [dataquest](https://github.com/dinhanhthi/dataquest-aio) or [deelearning.ai](https://github.com/dinhanhthi/deeplearning.ai-notes), this folder only contains the important codes & nodes (for me).
 
-## What's in the path?
+## What's in this path?
 
 - [x] The Importance of Data and SQL Basics
 - [x] SQL: Basics
