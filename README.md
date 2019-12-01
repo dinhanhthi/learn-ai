@@ -1,4 +1,4 @@
-# data-science-learning
+# 📊 data-science-learning
 
 The list of things I've finished so far on the way of learning by myself Machine Learning and Data Science.
 
