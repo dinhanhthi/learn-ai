@@ -10,12 +10,12 @@ This folder contains codes & "my-way descriptions" when I follow [Data Science p
 - [x] SQL: Basics
 - [x] SQL: Intermediate
 - [x] Go Off-Platform with SQL
-- [ ] Analyze Real Data with SQL
+- [x] Analyze Real Data with SQL
 - [x] Python Functions and Logic
 - [x] Python Lists and Loops
-- [ ] Advanced Python
+- [x] Advanced Python
 - [x] Python Cumulative Project
-- [ ] Data Analysis with Pandas
+- [x] Data Analysis with Pandas
 - [ ] Data Visualization
 - [ ] Visualization Cumulative Projects
 - [ ] Data Visualization Capstone Projects
