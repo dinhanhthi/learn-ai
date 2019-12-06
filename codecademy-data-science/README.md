@@ -16,7 +16,7 @@ This folder contains codes & "my-way descriptions" when I follow [Data Science p
 - [x] Advanced Python
 - [x] Python Cumulative Project
 - [x] Data Analysis with Pandas
-- [ ] Data Visualization
+- [x] Data Visualization
 - [ ] Visualization Cumulative Projects
 - [ ] Data Visualization Capstone Projects
 - [ ] Learn Statistics With Python

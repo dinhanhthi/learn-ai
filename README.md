@@ -3,16 +3,16 @@
 The list of things I've finished so far on the way of learning by myself Machine Learning and Data Science.
 
 - My raw notes: [rawnote.dinhanhthi.com](http://rawnote.dinhanhthi.com) (quickly capture ideas from the courses).
-- My main notes: [note.dinhanhthi.com](http://note.dinhanhthi.com) (well-written notes, not only for me).
+- My main notes: [dinhanhthi.com/notes](http://dinhanhthi.com/notes) (well-written notes, not only for me).
 - [My learning log](https://dinhanhthi.com/my-learning-log).
 
 ## 🔥 Projects
 
-- [x] Setting up a café in Ho Chi Minh City — *find a best place to setting up a new business* — [article](https://note.dinhanhthi.com/setting-up-a-cafe-in-hcmc) — [source](https://github.com/dinhanhthi/cafe-in-hcm).
+- [x] Setting up a café in Ho Chi Minh City — *find a best place to setting up a new business* — [article](https://dinhanhthi.com/setting-up-a-cafe-in-hcmc) — [source](https://github.com/dinhanhthi/cafe-in-hcm).
 - [x] Titanic: Machine Learning from Disaster (from [Kaggle](https://www.kaggle.com/c/titanic)) — *predicts which passengers survived the Titanic shipwreck* — [source](https://github.com/dinhanhthi/data-science-learning/tree/master/projetcs/kaggle-titanic-disaster).
 - [ ] "Bull Book for Bulldozers" Kaggle competition.
 
-*I also do some mini-projects for understanding the concepts. You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://note.dinhanhthi.com/small-projects-to-understand-concepts).*
+*I also do some mini-projects for understanding the concepts. You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://dinhanhthi.com/small-projects-to-understand-concepts).*
 
 - [x] Image   compression using K-Means — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/K_Means_image_compression.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1NQGqtr8Byo2FkYcx0hdU2hpoSWsjX-86).
 - [x] Example to understand the idea of PCA — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/PCA_understanding_example.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1F_A_fJOY-oiV7Ly4y_evF9sfwII-ljJK).
@@ -24,7 +24,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 ## 🤖 Algorithms
 
 - [ ] Convolutional Neural Network (CNN).
-- [x] Decision Tree — [my note](https://note.dinhanhthi.com/search?q=decision+tree).
+- [x] Decision Tree — [my note](https://dinhanhthi.com/search?q=decision+tree).
 - [x] Density-based Clustering.
 - [ ] Gaussian Naive Bayes.
 - [x] Hierarchical Clustering.
@@ -33,12 +33,12 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Linear Regression / Logistic Regression.
 - [x] Neural Networks.
 - [ ] Perceptron.
-- [x] Principal Component Analysis (PCA) — [my note](https://note.dinhanhthi.com/principal-component-analysis).
-- [x] Random Forest — [my note](https://note.dinhanhthi.com/random-forest).
+- [x] Principal Component Analysis (PCA) — [my note](https://dinhanhthi.com/principal-component-analysis).
+- [x] Random Forest — [my note](https://dinhanhthi.com/random-forest).
 - [ ] Recurrent neural network (RNN).
 - [ ] Singular Value Decomposition (SVD).
 - [ ] Stochastic Gradient Decent (SGD).
-- [x] Support Vector Machine (SVM) — [my note](https://note.dinhanhthi.com/support-vector-machine).
+- [x] Support Vector Machine (SVM) — [my note](https://dinhanhthi.com/support-vector-machine).
 
 ## 💡 Concepts
 
@@ -75,7 +75,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 ## 🐍 Programming Languages
 
 - [ ] [**GraphQL**](https://graphql.org/) — an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data.
-- [x] [**Python**](https://www.python.org/) — an interpreted, high-level, general-purpose programming language — [my note](https://note.dinhanhthi.com/#python).
+- [x] [**Python**](https://www.python.org/) — an interpreted, high-level, general-purpose programming language — [my note](https://dinhanhthi.com/#python).
 - [ ] [**R**](https://www.r-project.org/) — a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.
 - [ ] [**Scala**](https://www.scala-lang.org/) — a general-purpose programming language providing support for functional programming and a strong static type system.
 - [x] **SQL** — a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system.
@@ -83,7 +83,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 ## ⚙️ Frameworks & Platforms
 
 - [ ] [**Docker**](https://www.docker.com/) — a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
-- [x] [**Google Colab**](https://colab.research.google.com/) — a free cloud service, based on Jupyter Notebooks for machine-learning education and research — [my note](https://note.dinhanhthi.com/google-colab).
+- [x] [**Google Colab**](https://colab.research.google.com/) — a free cloud service, based on Jupyter Notebooks for machine-learning education and research — [my note](https://dinhanhthi.com/google-colab).
 - [x] [**Kaggle**](https://www.kaggle.com/) — an online community of data scientists and machine learners, owned by Google.
 - [ ] [**Hadoop**](https://hadoop.apache.org/) — a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation.
 - [x] [**PostgreSQL**](https://www.postgresql.org/) (Postgres) — a free and open-source relational database management system emphasizing extensibility and technical standards compliance.
@@ -91,9 +91,9 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## ⚒️ Tools
 
-- [x] [**Git**](https://git-scm.com/) — a distributed version-control system for tracking changes in source code during software development — [my note](https://note.dinhanhthi.com/git).
-- [x] **Markdown** — a lightweight markup language with plain text formatting syntax — [my note](https://note.dinhanhthi.com/markdown).
-- [x] [**Jupyter Notebook**](https://jupyter.org/) — an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text — [my note](https://note.dinhanhthi.com/jupyter-notebook).
+- [x] [**Git**](https://git-scm.com/) — a distributed version-control system for tracking changes in source code during software development — [my note](https://dinhanhthi.com/git).
+- [x] **Markdown** — a lightweight markup language with plain text formatting syntax — [my note](https://dinhanhthi.com/markdown).
+- [x] [**Jupyter Notebook**](https://jupyter.org/) — an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text — [my note](https://dinhanhthi.com/jupyter-notebook).
 - [x] [**Trello**](https://trello.com/) — a web-based Kanban-style list-making application.
 
 ## 📚 Libraries
