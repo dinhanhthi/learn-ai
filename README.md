@@ -49,7 +49,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Cross Validation (K-folds).
 - [x] Decision boundary.
 - [x] Gradient Descent.
-- [ ] GridSearch.
+- [x] Grid Search.
 - [x] **Functions**: Sigmoid, ReLU.
 - [x] F-test, p-value, f1-score, t-value, z-score.
 - [x] Forward/Backward propagation.
