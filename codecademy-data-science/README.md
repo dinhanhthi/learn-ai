@@ -4,6 +4,8 @@ This folder contains codes & "my-way descriptions" when I follow [Data Science p
 
 **Note**: Unlike my notes for [dataquest](https://github.com/dinhanhthi/dataquest-aio) or [deelearning.ai](https://github.com/dinhanhthi/deeplearning.ai-notes), this folder only contains the important codes & nodes (for me).
 
+❗💀❗ For the reason of efficiency, I drop this path. It takes more time (and a little useless) to learn some basic tasks. I change to learn from more advanced courses.
+
 ## What's in this path?
 
 - [x] The Importance of Data and SQL Basics
