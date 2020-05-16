@@ -13,7 +13,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 *I also do some mini-projects for understanding the concepts. You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://dinhanhthi.com/small-projects-to-understand-concepts).*
 
-- [x] Image   compression using K-Means — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/K_Means_image_compression.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1NQGqtr8Byo2FkYcx0hdU2hpoSWsjX-86).
+- [x] Image   compression using K-Means — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/K_Means_image_compression.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1NQGqtr8Byo2FkYcx0hdU2hpoSWsjX-86) -- [my note](https://dinhanhthi.com/k-means-clustering)
 - [x] Example to understand the idea of PCA — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/PCA_understanding_example.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1F_A_fJOY-oiV7Ly4y_evF9sfwII-ljJK).
 - [x] Image compression using PCA — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/PCA-image-compression.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1G_WPZMmQ020kjSmqMI_k21_zLDrPlYtg).
 - [x] PCA without scikit-learn — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/PCA_without_scikit_learn.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1IWMuon3NSpGybmnBBWxlvbS9yUjxtf_8).
