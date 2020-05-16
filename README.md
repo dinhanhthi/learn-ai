@@ -10,7 +10,6 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 - [x] Setting up a café in Ho Chi Minh City — *find a best place to setting up a new business* — [article](https://dinhanhthi.com/setting-up-a-cafe-in-hcmc) — [source](https://github.com/dinhanhthi/cafe-in-hcm).
 - [x] Titanic: Machine Learning from Disaster (from [Kaggle](https://www.kaggle.com/c/titanic)) — *predicts which passengers survived the Titanic shipwreck* — [source](https://github.com/dinhanhthi/data-science-learning/tree/master/projetcs/kaggle-titanic-disaster).
-- [ ] "Bull Book for Bulldozers" Kaggle competition.
 
 *I also do some mini-projects for understanding the concepts. You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://dinhanhthi.com/small-projects-to-understand-concepts).*
 
@@ -23,54 +22,65 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## 🤖 Algorithms
 
-- [ ] Convolutional Neural Network (CNN).
+### Machine Learning
+
 - [x] Decision Tree — [my note](https://dinhanhthi.com/search?q=decision+tree).
-- [x] Density-based Clustering.
-- [ ] Gaussian Naive Bayes.
-- [x] Hierarchical Clustering.
-- [x] K-Means Clustering.
-- [x] K-Nearest Neighbors (KNN)
+- **Clustering**
+  - [x] DBSCAN / HDBSCAN Clusering -- [my note](https://dinhanhthi.com/k-dbscan-hdbscan-clustering)
+  - [x] Density-based Clustering.
+  - [x] Hierarchical Clustering.
+  - [x] K-Means Clustering.
+  - [x] Mean-Shift clustering -- [my note](https://dinhanhthi.com/mean-shift)
 - [x] Linear Regression / Logistic Regression.
-- [x] Neural Networks.
-- [ ] Perceptron.
+- [x] K-Nearest Neighbors (KNN)
 - [x] Principal Component Analysis (PCA) — [my note](https://dinhanhthi.com/principal-component-analysis).
+- [ ] Perceptron.
 - [x] Random Forest — [my note](https://dinhanhthi.com/random-forest).
-- [ ] Recurrent neural network (RNN).
 - [ ] Singular Value Decomposition (SVD).
+- [x] Support Vector Machine (SVM) — [my note](https://dinhanhthi.com/support-vector-machine) -- [my note](https://dinhanhthi.com/support-vector-machine)
 - [ ] Stochastic Gradient Decent (SGD).
-- [x] Support Vector Machine (SVM) — [my note](https://dinhanhthi.com/support-vector-machine).
+
+### Deep Learning
+
+- [x] Convolutional Neural Network (CNN).
+- [x] Neural Networks.
+- [x] Recurrent neural network (RNN).
+- [ ] Gaussian Naive Bayes.
+
 
 ## 💡 Concepts
 
 - [x] Activation functions.
 - [ ] Active learning (ML).
 - [x] Cost function.
-- [x] Confusion matrix.
+- [x] Confusion matrix. -- [my note](https://dinhanhthi.com/confusion-matrix-and-f1-score)
 - [x] Cross Validation (K-folds).
 - [x] Decision boundary.
 - [x] Gradient Descent.
-- [x] Grid Search.
+- [x] Grid Search. -- [my note](https://dinhanhthi.com/grid-search)
 - [x] **Functions**: Sigmoid, ReLU.
-- [x] F-test, p-value, f1-score, t-value, z-score.
+- [x] F-test, p-value, f1-score, t-value, z-score. -- [my note](https://dinhanhthi.com/notes#probability_&_statistics)
 - [x] Forward/Backward propagation.
 - [x] Overfitting (High variance) / Underfitting (High bias).
-- [x] Pipeline.
+- [x] Pipeline -- [my note](https://dinhanhthi.com/pipeline)
 - [x] **Plots** / **Charts**: box plots, heat map plots, line plots, area plots, bar chart, choropleth map, waffle chart, factorplot.
 - [x] Regular Expressions (RegEx).
 - [x] Scaling.
 - [x] Supervised Learning / Unsupervised Learning.
 - [x] Train / Dev / Test sets.
-- [ ] Tuning.
+- [x] Tuning.
 - [x] Whitening.
 
 ## 🎲 Tasks
 
+- [x] Anomaly Detection. -- [my note](https://dinhanhthi.com/simple-autoencoder-ae)
+- [x] Data Aggregation -- [my note](https://dinhanhthi.com/data-aggregation)
+- [x] Data Overviewing. -- [my note](https://dinhanhthi.com/dataframe-overview)
 - [x] Data Visualization.
-- [ ] Data Wrangling.
 - [x] Model evaluation.
-- [x] Preprocessing (texts, images, dates & times, structured data).
-- [ ] Testing.
-- [ ] Web Scraping.
+- [x] Preprocessing (texts, images, dates & times, structured data). -- [my note](https://dinhanhthi.com/data-preprocessing-cleaning)
+- [x] Testing. -- [my note](https://dinhanhthi.com/pytest)
+- [x] Web Scraping.
 
 ## 🐍 Programming Languages
 
@@ -82,15 +92,18 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## ⚙️ Frameworks & Platforms
 
-- [ ] [**Docker**](https://www.docker.com/) — a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
+- [ ] **[Apache Airflow](https://airflow.apache.org/)** -- [my note](https://dinhanhthi.com/airflow-101)
+- [x] [**Docker**](https://www.docker.com/) — a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers -- [my note](https://dinhanhthi.com/docker)
 - [x] [**Google Colab**](https://colab.research.google.com/) — a free cloud service, based on Jupyter Notebooks for machine-learning education and research — [my note](https://dinhanhthi.com/google-colab).
-- [x] [**Kaggle**](https://www.kaggle.com/) — an online community of data scientists and machine learners, owned by Google.
+- [ ] **[Google Kubernetes](https://kubernetes.io/)**
 - [ ] [**Hadoop**](https://hadoop.apache.org/) — a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation.
+- [x] [**Kaggle**](https://www.kaggle.com/) — an online community of data scientists and machine learners, owned by Google.
 - [x] [**PostgreSQL**](https://www.postgresql.org/) (Postgres) — a free and open-source relational database management system emphasizing extensibility and technical standards compliance.
 - [ ] [**Spark**](https://spark.apache.org/) — an open-source distributed general-purpose cluster-computing framework.
 
 ## ⚒️ Tools
 
+- [x] **Bash** -- [my note](https://dinhanhthi.com/bash-command-line)
 - [x] [**Git**](https://git-scm.com/) — a distributed version-control system for tracking changes in source code during software development — [my note](https://dinhanhthi.com/git).
 - [x] **Markdown** — a lightweight markup language with plain text formatting syntax — [my note](https://dinhanhthi.com/markdown).
 - [x] [**Jupyter Notebook**](https://jupyter.org/) — an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text — [my note](https://dinhanhthi.com/jupyter-notebook).
@@ -101,29 +114,38 @@ The list of things I've finished so far on the way of learning by myself Machine
 *The "ticked" libraries don't mean that I've known/understand whole of them (but I can easily use them with their documentation)!*
 
 - [ ] [**D3js**](https://d3js.org/) — a JavaScript library for producing dynamic, interactive data visualizations in web browsers.
-- [ ] [**Keras**](https://keras.io/) — an open-source neural-network library written in Python.
+- [x] [**Keras**](https://keras.io/) — an open-source neural-network library written in Python.
 - [x] [**Matplotlib**](https://matplotlib.org/) — a plotting library for the Python programming language and its numerical mathematics extension NumPy.
-- [x] [**numpy**](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/) — a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+- [x] [**Numpy**](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/) — a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 - [ ] [**OpenCV**](https://opencv.org/) — a library of programming functions mainly aimed at real-time computer vision.
-- [x] [**pandas**](https://pandas.pydata.org/) — a software library written for the Python programming language for data manipulation and analysis.
+- [x] [**Pandas**](https://pandas.pydata.org/) — a software library written for the Python programming language for data manipulation and analysis.
+- [x] [**PyTorch**](https://pytorch.org/)
 - [x] [**Seaborn**](https://seaborn.pydata.org/) — a Python data visualization library based on matplotlib.
-- [x] [**scikit-learn**](https://scikit-learn.org/stable/) — a free software machine learning library for the Python programming language.
-- [x] [**TensorFlow**](https://www.tensorflow.org/) — a free and open-source software library for dataflow and differentiable programming across a range of tasks..
+- [x] [**Scikit-learn**](https://scikit-learn.org/stable/) — a free software machine learning library for the Python programming language.
+- [x] [**TensorFlow**](https://www.tensorflow.org/) — a free and open-source software library for dataflow and differentiable programming across a range of tasks.
 
 ## 👨‍🏫 Courses
 
 *The "non-checked" courses are under the way to be finished!*
 
-- [x] [**Machine Learning**](https://www.coursera.org/learn/machine-learning) by Andew NG on Coursera. It introduces a general idea about ML and some commonly used algorithms — [my note](https://rawnote.dinhanhthi.com/tags#ml-coursera) — [my certificate](https://github.com/dinhanhthi/my-certificates/blob/master/Coursera%20Machine%20Learning%20by%20Andrew%20Ng.pdf).
+- [ ] [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm) on Coursera.
+- [ ] [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) by [Google Cloud Training](https://www.coursera.org/instructor/google-cloud-training) on Coursera.
+- [ ] [**CS231n: Convolutional Neural Networks for Visual Recognition**](http://cs231n.stanford.edu/index.html) by Stanford.
+- [ ] **[Data Science Path](https://www.codecademy.com/learn/paths/data-science)** on Codecademy. It contains 27 sub-courses covering all necessary knowledge about data science — [my certificate](https://www.codecademy.com/profiles/dinhanhthi) — [notes & codes](./codecademy-data-science).
+- [x] **[Data Scientist](https://www.dataquest.io/path/data-scientist)** path & **[Data Engineer](https://www.dataquest.io/path/data-engineer/)** path on Dataquest. Both of them contain many sub-courses covering all about Data Science — [my note](https://rawnote.dinhanhthi.com/tags#dataquest) — [my certificate](https://app.dataquest.io/profile/dinhanhthi) — [notes & codes](https://github.com/dinhanhthi/dataquest-aio).
+- [x] **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** by Andrew NG on Coursera. It contains 5 courses covering the foundations of Deep Learning (CNN, RNN, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization,...). Many case studies projects are proposed — [notes & code](https://github.com/dinhanhthi/deeplearning.ai-notes).
+- [ ] [**fast.ai**'s courses](https://www.fast.ai/) for Machine Learning and Deep Learning..
+- [ ] [**IBM AI Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/ai-engineer) on Coursera.
 - [x] **[IBM Data Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)** specialization on Coursera. It contains 9 sub-courses covering fundamental knowledge about data science — [my note](https://rawnote.dinhanhthi.com/tags#ibm-data) — [my certificate](https://github.com/dinhanhthi/my-certificates/blob/master/Coursera%20IBM%20Data%20Science%20Professional%20Certificate.pdf).
+- [x] **[Introduction to Statistics with NumPy](https://www.codecademy.com/learn/intro-statistics-numpy)** on Codecademy — [my certificate](https://www.codecademy.com/profiles/dinhanhthi).
 - [x] **[Learn Python 3](https://www.codecademy.com/learn/learn-python-3)** on Codecademy — [my note](https://rawnote.dinhanhthi.com/codecademy-python-1) — [my certificate](https://www.codecademy.com/profiles/dinhanhthi).
 - [x] **[Learn SQL](https://www.codecademy.com/learn/learn-sql)** on Codecademy — [my certificate](https://www.codecademy.com/profiles/dinhanhthi).
-- [x] **[Introduction to Statistics with NumPy](https://www.codecademy.com/learn/intro-statistics-numpy)** on Codecademy — [my certificate](https://www.codecademy.com/profiles/dinhanhthi).
-- [x] **[Data Scientist](https://www.dataquest.io/path/data-scientist)** path & **[Data Engineer](https://www.dataquest.io/path/data-engineer/)** path on Dataquest. Both of them contain many sub-courses covering all about Data Science — [my note](https://rawnote.dinhanhthi.com/tags#dataquest) — [my certificate](https://app.dataquest.io/profile/dinhanhthi) — [notes & codes](https://github.com/dinhanhthi/dataquest-aio).
-- [ ] **[Data Science Path](https://www.codecademy.com/learn/paths/data-science)** on Codecademy. It contains 27 sub-courses covering all necessary knowledge about data science — [my certificate](https://www.codecademy.com/profiles/dinhanhthi) — [notes & codes](./codecademy-data-science).
-- [ ] **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** by Andrew NG on Coursera. It contains 5 courses covering the foundations of Deep Learning (CNN, RNN, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization,...). Many case studies projects are proposed — [notes & code](https://github.com/dinhanhthi/deeplearning.ai-notes).
-- [ ] [**fast.ai**'s courses](https://www.fast.ai/) for Machine Learning and Deep Learning.
+- [x] [**Machine Learning**](https://www.coursera.org/learn/machine-learning) by Andew NG on Coursera. It introduces a general idea about ML and some commonly used algorithms — [my note](https://rawnote.dinhanhthi.com/tags#ml-coursera) — [my certificate](https://github.com/dinhanhthi/my-certificates/blob/master/Coursera%20Machine%20Learning%20by%20Andrew%20Ng.pdf).
 - [ ] [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) by Google.
+- [ ] [**Machine Learning with TensorFlow on Google Cloud Platform Specialization**](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp#courses) by [Google Cloud Training](https://www.coursera.org/instructor/google-cloud-training) on Coursera.
+- [ ] [**MIT Deep Learning**](https://deeplearning.mit.edu/)
+- [ ] [**TensorFlow: Data and Deployment Specialization**](https://www.coursera.org/specializations/tensorflow-data-and-deployment#courses) by [deeplearning.ai](http://deeplearning.ai/) on Coursera.
+- [ ] [**TensorFlow in Practice Specialization**](https://www.coursera.org/specializations/tensorflow-in-practice) by [deeplearning.ai](http://deeplearning.ai/) on Coursera.
 
 ## 📖 Books
 
