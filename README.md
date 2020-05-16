@@ -128,8 +128,8 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 *The "non-checked" courses are under the way to be finished!*
 
-- [ ] [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm) on Coursera.
-- [ ] [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) by [Google Cloud Training](https://www.coursera.org/instructor/google-cloud-training) on Coursera.
+- [ ] [**Advanced Data Science with IBM Specialization**](https://www.coursera.org/specializations/advanced-data-science-ibm) on Coursera.
+- [ ] [**Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization**](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) by [Google Cloud Training](https://www.coursera.org/instructor/google-cloud-training) on Coursera.
 - [ ] [**CS231n: Convolutional Neural Networks for Visual Recognition**](http://cs231n.stanford.edu/index.html) by Stanford.
 - [x] **[Data Science Path](https://www.codecademy.com/learn/paths/data-science)** on Codecademy. It contains 27 sub-courses covering all necessary knowledge about data science — [my certificate](https://www.codecademy.com/profiles/dinhanhthi) — [notes & codes](./codecademy-data-science).
 - [x] **[Data Scientist](https://www.dataquest.io/path/data-scientist)** path & **[Data Engineer](https://www.dataquest.io/path/data-engineer/)** path on Dataquest. Both of them contain many sub-courses covering all about Data Science — [my note](https://rawnote.dinhanhthi.com/tags#dataquest) — [my certificate](https://app.dataquest.io/profile/dinhanhthi) — [notes & codes](https://github.com/dinhanhthi/dataquest-aio).
