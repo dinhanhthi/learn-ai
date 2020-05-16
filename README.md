@@ -84,9 +84,9 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## 🐍 Programming Languages
 
-- [ ] [**GraphQL**](https://graphql.org/) — an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data.
+- [x] [**GraphQL**](https://graphql.org/) — an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data.
 - [x] [**Python**](https://www.python.org/) — an interpreted, high-level, general-purpose programming language — [my note](https://dinhanhthi.com/#python).
-- [ ] [**R**](https://www.r-project.org/) — a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.
+- [x] [**R**](https://www.r-project.org/) — a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.
 - [ ] [**Scala**](https://www.scala-lang.org/) — a general-purpose programming language providing support for functional programming and a strong static type system.
 - [x] **SQL** — a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system.
 
@@ -131,7 +131,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm) on Coursera.
 - [ ] [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) by [Google Cloud Training](https://www.coursera.org/instructor/google-cloud-training) on Coursera.
 - [ ] [**CS231n: Convolutional Neural Networks for Visual Recognition**](http://cs231n.stanford.edu/index.html) by Stanford.
-- [ ] **[Data Science Path](https://www.codecademy.com/learn/paths/data-science)** on Codecademy. It contains 27 sub-courses covering all necessary knowledge about data science — [my certificate](https://www.codecademy.com/profiles/dinhanhthi) — [notes & codes](./codecademy-data-science).
+- [x] **[Data Science Path](https://www.codecademy.com/learn/paths/data-science)** on Codecademy. It contains 27 sub-courses covering all necessary knowledge about data science — [my certificate](https://www.codecademy.com/profiles/dinhanhthi) — [notes & codes](./codecademy-data-science).
 - [x] **[Data Scientist](https://www.dataquest.io/path/data-scientist)** path & **[Data Engineer](https://www.dataquest.io/path/data-engineer/)** path on Dataquest. Both of them contain many sub-courses covering all about Data Science — [my note](https://rawnote.dinhanhthi.com/tags#dataquest) — [my certificate](https://app.dataquest.io/profile/dinhanhthi) — [notes & codes](https://github.com/dinhanhthi/dataquest-aio).
 - [x] **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** by Andrew NG on Coursera. It contains 5 courses covering the foundations of Deep Learning (CNN, RNN, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization,...). Many case studies projects are proposed — [notes & code](https://github.com/dinhanhthi/deeplearning.ai-notes).
 - [ ] [**fast.ai**'s courses](https://www.fast.ai/) for Machine Learning and Deep Learning..
