@@ -19,18 +19,18 @@ This folder contains codes & "my-way descriptions" when I follow [Data Science p
 - [x] Python Cumulative Project
 - [x] Data Analysis with Pandas
 - [x] Data Visualization
-- [ ] Visualization Cumulative Projects
-- [ ] Data Visualization Capstone Projects
-- [ ] Learn Statistics With Python
+- [x] Visualization Cumulative Projects
+- [x] Data Visualization Capstone Projects
+- [x] Learn Statistics With Python
 - [x] Introduction to Statistics with NumPy
 - [x] Hypothesis Testing with SciPy
-- [ ] Practical Data Cleaning
-- [ ] Data Analysis Capstone Projects
-- [ ] Learn Web Scraping with Beautiful Soup
-- [ ] Machine Learning: Supervised Learning
-- [ ] Supervised Machine Learning Cumulative Project
-- [ ] Machine Learning: Unsupervised Learning
-- [ ] Unsupervised Machine Learning Cumulative Project
-- [ ] Perceptrons and Neural Nets
-- [ ] Machine Learning Capstone Project
-- [ ] Natural Language Processing
+- [x] Practical Data Cleaning
+- [x] Data Analysis Capstone Projects
+- [x] Learn Web Scraping with Beautiful Soup
+- [x] Machine Learning: Supervised Learning
+- [x] Supervised Machine Learning Cumulative Project
+- [x] Machine Learning: Unsupervised Learning
+- [x] Unsupervised Machine Learning Cumulative Project
+- [x] Perceptrons and Neural Nets
+- [x] Machine Learning Capstone Project
+- [x] Natural Language Processing
