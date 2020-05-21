@@ -146,6 +146,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] [**MIT Deep Learning**](https://deeplearning.mit.edu/)
 - [ ] [**TensorFlow: Data and Deployment Specialization**](https://www.coursera.org/specializations/tensorflow-data-and-deployment#courses) by [deeplearning.ai](http://deeplearning.ai/) on Coursera.
 - [ ] [**TensorFlow in Practice Specialization**](https://www.coursera.org/specializations/tensorflow-in-practice) by [deeplearning.ai](http://deeplearning.ai/) on Coursera.
+- [ ] [**TensorFlow Tutorials**](https://www.tensorflow.org/tutorials).
 
 ## 📖 Books
 
