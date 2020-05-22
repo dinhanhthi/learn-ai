@@ -51,7 +51,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## 💡 Concepts
 
-- [x] **Activation functions**: Sigmoid, ReLU, Softmax, tanh — [https://dinhanhthi.com/deeplearning-ai-course-1#activation-functions](https://dinhanhthi.com/deeplearning-ai-course-1#activation-functions)
+- [x] **Activation functions**: Sigmoid, ReLU, Softmax, tanh — [my note](https://dinhanhthi.com/deeplearning-ai-course-1#activation-functions)
 - [ ] Active learning (ML).
 - [x] Cost function.
 - [x] Confusion matrix. — [my note](https://dinhanhthi.com/confusion-matrix-and-f1-score)
