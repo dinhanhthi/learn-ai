@@ -13,7 +13,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 *I also do some mini-projects for understanding the concepts. You can find **the html files** (exported from the corresponding Jupyter Notebook files) and **"Open in Colab" files** for below mini projects [here](https://dinhanhthi.com/small-projects-to-understand-concepts).*
 
-- [x] Image   compression using K-Means — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/K_Means_image_compression.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1NQGqtr8Byo2FkYcx0hdU2hpoSWsjX-86) -- [my note](https://dinhanhthi.com/k-means-clustering)
+- [x] Image   compression using K-Means — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/K_Means_image_compression.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1NQGqtr8Byo2FkYcx0hdU2hpoSWsjX-86) — [my note](https://dinhanhthi.com/k-means-clustering)
 - [x] Example to understand the idea of PCA — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/PCA_understanding_example.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1F_A_fJOY-oiV7Ly4y_evF9sfwII-ljJK).
 - [x] Image compression using PCA — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/PCA-image-compression.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1G_WPZMmQ020kjSmqMI_k21_zLDrPlYtg).
 - [x] PCA without scikit-learn — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/PCA_without_scikit_learn.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1IWMuon3NSpGybmnBBWxlvbS9yUjxtf_8).
@@ -26,60 +26,60 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 - [x] Decision Tree — [my note](https://dinhanhthi.com/search?q=decision+tree).
 - **Clustering**
-  - [x] DBSCAN / HDBSCAN Clusering -- [my note](https://dinhanhthi.com/k-dbscan-hdbscan-clustering)
-  - [x] Density-based Clustering.
+  - [x] DBSCAN / HDBSCAN Clusering — [my note](https://dinhanhthi.com/k-dbscan-hdbscan-clustering)
+  - [x] Density-based Clustering. — [my note](https://dinhanhthi.com/k-dbscan-hdbscan-clustering)
   - [x] Hierarchical Clustering.
-  - [x] K-Means Clustering.
-  - [x] Mean-Shift clustering -- [my note](https://dinhanhthi.com/mean-shift)
-- [x] Linear Regression / Logistic Regression.
+  - [x] K-Means Clustering. — [my note](https://dinhanhthi.com/k-means-clustering)
+  - [x] Mean-Shift clustering — [my note](https://dinhanhthi.com/mean-shift)
+- [x] Linear Regression / Logistic Regression. — [my note](https://dinhanhthi.com/deeplearning-ai-course-1#logistic-regression)
 - [x] K-Nearest Neighbors (KNN)
 - [x] Principal Component Analysis (PCA) — [my note](https://dinhanhthi.com/principal-component-analysis).
 - [ ] Perceptron.
 - [x] Random Forest — [my note](https://dinhanhthi.com/random-forest).
 - [ ] Singular Value Decomposition (SVD).
-- [x] Support Vector Machine (SVM) — [my note](https://dinhanhthi.com/support-vector-machine) -- [my note](https://dinhanhthi.com/support-vector-machine)
+- [x] Support Vector Machine (SVM) — [my note](https://dinhanhthi.com/support-vector-machine) — [my note](https://dinhanhthi.com/support-vector-machine)
 - [ ] Stochastic Gradient Decent (SGD).
 
 ### Deep Learning
 
-- [x] Convolutional Neural Network (CNN).
-- [x] Neural Networks.
+- [ ] Auto Encoder. — [my note](https://dinhanhthi.com/simple-autoencoder-ae)
+- [x] Convolutional Neural Network (CNN). — [my note](https://dinhanhthi.com/cnn-101)
+- [x] Neural Networks. — [my note](https://dinhanhthi.com/deeplearning-ai)
 - [x] Recurrent neural network (RNN).
 - [ ] Gaussian Naive Bayes.
 
 
 ## 💡 Concepts
 
-- [x] Activation functions.
+- [x] **Activation functions**: Sigmoid, ReLU, Softmax, tanh — [https://dinhanhthi.com/deeplearning-ai-course-1#activation-functions](https://dinhanhthi.com/deeplearning-ai-course-1#activation-functions)
 - [ ] Active learning (ML).
 - [x] Cost function.
-- [x] Confusion matrix. -- [my note](https://dinhanhthi.com/confusion-matrix-and-f1-score)
+- [x] Confusion matrix. — [my note](https://dinhanhthi.com/confusion-matrix-and-f1-score)
 - [x] Cross Validation (K-folds).
 - [x] Decision boundary.
-- [x] Gradient Descent.
-- [x] Grid Search. -- [my note](https://dinhanhthi.com/grid-search)
-- [x] **Functions**: Sigmoid, ReLU.
-- [x] F-test, p-value, f1-score, t-value, z-score. -- [my note](https://dinhanhthi.com/notes#probability_&_statistics)
-- [x] Forward/Backward propagation.
+- [x] Gradient Descent. — [my note](https://dinhanhthi.com/deeplearning-ai-course-1#gradient-descent)
+- [x] Grid Search. — [my note](https://dinhanhthi.com/grid-search)
+- [x] F-test, p-value, f1-score, t-value, z-score. — [my note](https://dinhanhthi.com/notes#probability_&_statistics)
+- [x] Forward/Backward propagation. — [my notes](https://dinhanhthi.com/deeplearning-ai-course-1#neural-network-overview)
 - [x] Overfitting (High variance) / Underfitting (High bias).
-- [x] Pipeline -- [my note](https://dinhanhthi.com/pipeline)
+- [x] Pipeline — [my note](https://dinhanhthi.com/pipeline)
 - [x] **Plots** / **Charts**: box plots, heat map plots, line plots, area plots, bar chart, choropleth map, waffle chart, factorplot.
-- [x] Regular Expressions (RegEx).
+- [x] Regular Expressions (RegEx) — [my notes](https://dinhanhthi.com/regular-expression)
 - [x] Scaling.
 - [x] Supervised Learning / Unsupervised Learning.
-- [x] Train / Dev / Test sets.
-- [x] Tuning.
-- [x] Whitening.
+- [x] Train / Dev / Test sets. — [my note](https://dinhanhthi.com/deeplearning-ai#course-2)
+- [x] Tuning. — [my note](https://dinhanhthi.com/deeplearning-ai-course-2#hyperparameter-tuning)
+- [x] Whitening. — [my note](https://dinhanhthi.com/principal-component-analysis#whitening)
 
 ## 🎲 Tasks
 
-- [x] Anomaly Detection. -- [my note](https://dinhanhthi.com/simple-autoencoder-ae)
-- [x] Data Aggregation -- [my note](https://dinhanhthi.com/data-aggregation)
-- [x] Data Overviewing. -- [my note](https://dinhanhthi.com/dataframe-overview)
+- [x] Anomaly Detection. — [my note](https://dinhanhthi.com/simple-autoencoder-ae)
+- [x] Data Aggregation — [my note](https://dinhanhthi.com/data-aggregation)
+- [x] Data Overviewing. — [my note](https://dinhanhthi.com/dataframe-overview)
 - [x] Data Visualization.
 - [x] Model evaluation.
-- [x] Preprocessing (texts, images, dates & times, structured data). -- [my note](https://dinhanhthi.com/data-preprocessing-cleaning)
-- [x] Testing. -- [my note](https://dinhanhthi.com/pytest)
+- [x] Preprocessing (texts, images, dates & times, structured data). — [my note](https://dinhanhthi.com/data-preprocessing-cleaning)
+- [x] Testing. — [my note](https://dinhanhthi.com/pytest)
 - [x] Web Scraping.
 
 ## 🐍 Programming Languages
@@ -92,8 +92,8 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## ⚙️ Frameworks & Platforms
 
-- [ ] **[Apache Airflow](https://airflow.apache.org/)** -- [my note](https://dinhanhthi.com/airflow-101)
-- [x] [**Docker**](https://www.docker.com/) — a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers -- [my note](https://dinhanhthi.com/docker)
+- [ ] **[Apache Airflow](https://airflow.apache.org/)** — [my note](https://dinhanhthi.com/airflow-101)
+- [x] [**Docker**](https://www.docker.com/) — a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers — [my note](https://dinhanhthi.com/docker)
 - [x] [**Google Colab**](https://colab.research.google.com/) — a free cloud service, based on Jupyter Notebooks for machine-learning education and research — [my note](https://dinhanhthi.com/google-colab).
 - [ ] **[Google Kubernetes](https://kubernetes.io/)**
 - [ ] [**Hadoop**](https://hadoop.apache.org/) — a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation.
@@ -103,7 +103,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## ⚒️ Tools
 
-- [x] **Bash** -- [my note](https://dinhanhthi.com/bash-command-line)
+- [x] **Bash** — [my note](https://dinhanhthi.com/bash-command-line)
 - [x] [**Git**](https://git-scm.com/) — a distributed version-control system for tracking changes in source code during software development — [my note](https://dinhanhthi.com/git).
 - [x] **Markdown** — a lightweight markup language with plain text formatting syntax — [my note](https://dinhanhthi.com/markdown).
 - [x] [**Jupyter Notebook**](https://jupyter.org/) — an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text — [my note](https://dinhanhthi.com/jupyter-notebook).
@@ -115,11 +115,11 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 - [ ] [**D3js**](https://d3js.org/) — a JavaScript library for producing dynamic, interactive data visualizations in web browsers.
 - [x] [**Keras**](https://keras.io/) — an open-source neural-network library written in Python.
-- [x] [**Matplotlib**](https://matplotlib.org/) — a plotting library for the Python programming language and its numerical mathematics extension NumPy.
-- [x] [**Numpy**](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/) — a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+- [x] [**Matplotlib**](https://matplotlib.org/) — a plotting library for the Python programming language and its numerical mathematics extension NumPy. — [my note](https://dinhanhthi.com/python-matplotlib-tips)
+- [x] [**Numpy**](https://numpy.org/) — a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. — [my note](https://dinhanhthi.com/python-numpy-tips)
 - [ ] [**OpenCV**](https://opencv.org/) — a library of programming functions mainly aimed at real-time computer vision.
-- [x] [**Pandas**](https://pandas.pydata.org/) — a software library written for the Python programming language for data manipulation and analysis.
-- [x] [**PyTorch**](https://pytorch.org/)
+- [x] [**Pandas**](https://pandas.pydata.org/) — a software library written for the Python programming language for data manipulation and analysis. -- [my note](https://dinhanhthi.com/python-pandas)
+- [x] [**PyTorch**](https://pytorch.org/) -- [my note](https://dinhanhthi.com/pytorch)
 - [x] [**Seaborn**](https://seaborn.pydata.org/) — a Python data visualization library based on matplotlib.
 - [x] [**Scikit-learn**](https://scikit-learn.org/stable/) — a free software machine learning library for the Python programming language.
 - [x] [**TensorFlow**](https://www.tensorflow.org/) — a free and open-source software library for dataflow and differentiable programming across a range of tasks.
@@ -144,6 +144,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) by Google.
 - [ ] [**Machine Learning with TensorFlow on Google Cloud Platform Specialization**](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp#courses) by [Google Cloud Training](https://www.coursera.org/instructor/google-cloud-training) on Coursera.
 - [ ] [**MIT Deep Learning**](https://deeplearning.mit.edu/)
+- [ ] **Shervine Amidi**'s [courses about Machine Learning, Deep Learning, AI, Stats](https://stanford.edu/~shervine/teaching/) (Stanford University)
 - [ ] [**TensorFlow: Data and Deployment Specialization**](https://www.coursera.org/specializations/tensorflow-data-and-deployment#courses) by [deeplearning.ai](http://deeplearning.ai/) on Coursera.
 - [ ] [**TensorFlow in Practice Specialization**](https://www.coursera.org/specializations/tensorflow-in-practice) by [deeplearning.ai](http://deeplearning.ai/) on Coursera.
 - [ ] [**TensorFlow Tutorials**](https://www.tensorflow.org/tutorials).
