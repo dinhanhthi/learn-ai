@@ -42,10 +42,12 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ### Deep Learning
 
-- [ ] Auto Encoder. — [my note](https://dinhanhthi.com/simple-autoencoder-ae)
+- [x] Auto Encoder. — [my note](https://dinhanhthi.com/simple-autoencoder-ae)
+  - [x] Auto Encoder for Anomaly Detection.
 - [x] Convolutional Neural Network (CNN). — [my note](https://dinhanhthi.com/cnn-101)
 - [x] Neural Networks. — [my note](https://dinhanhthi.com/deeplearning-ai)
 - [x] Recurrent neural network (RNN).
+  - [ ] Long short-term memory (LSTM)
 - [ ] Gaussian Naive Bayes.
 
 
@@ -61,6 +63,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Grid Search. — [my note](https://dinhanhthi.com/grid-search)
 - [x] F-test, p-value, f1-score, t-value, z-score. — [my note](https://dinhanhthi.com/notes#probability_&_statistics)
 - [x] Forward/Backward propagation. — [my notes](https://dinhanhthi.com/deeplearning-ai-course-1#neural-network-overview)
+- [ ] Inverse methods.
 - [x] Overfitting (High variance) / Underfitting (High bias).
 - [x] Pipeline — [my note](https://dinhanhthi.com/pipeline)
 - [x] **Plots** / **Charts**: box plots, heat map plots, line plots, area plots, bar chart, choropleth map, waffle chart, factorplot.
@@ -130,6 +133,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 - [ ] [**Advanced Data Science with IBM Specialization**](https://www.coursera.org/specializations/advanced-data-science-ibm) on Coursera.
 - [ ] [**Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization**](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) by [Google Cloud Training](https://www.coursera.org/instructor/google-cloud-training) on Coursera.
+- [x] [**Anomaly Detection in Time Series Data with Keras**](https://www.coursera.org/learn/anomaly-detection-time-series-keras/home/welcome) by Coursera Project Network.
 - [ ] [**CS231n: Convolutional Neural Networks for Visual Recognition**](http://cs231n.stanford.edu/index.html) by Stanford.
 - [x] **[Data Science Path](https://www.codecademy.com/learn/paths/data-science)** on Codecademy. It contains 27 sub-courses covering all necessary knowledge about data science — [my certificate](https://www.codecademy.com/profiles/dinhanhthi) — [notes & codes](./codecademy-data-science).
 - [x] **[Data Scientist](https://www.dataquest.io/path/data-scientist)** path & **[Data Engineer](https://www.dataquest.io/path/data-engineer/)** path on Dataquest. Both of them contain many sub-courses covering all about Data Science — [my note](https://rawnote.dinhanhthi.com/tags#dataquest) — [my certificate](https://app.dataquest.io/profile/dinhanhthi)
@@ -153,22 +157,24 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 *The "non-checked" books are under the way to be finished!*
 
-- [ ] **[An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)** by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirami.
-- [ ] **[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)** by François Chollet.
-- [ ] **[Dive into Deep Learning](https://d2l.ai/index.html)** — An interactive deep learning book with code, math, and discussions, based on the NumPy interface. — [Github](https://github.com/d2l-ai/d2l-en).
-- [ ] **[Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)** (2nd edition) by Aurélien Géron.
-- [ ] **[Machine Learning Yearing](https://www.deeplearning.ai/machine-learning-yearning/)** by Andew NG.
-- [ ] **[The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://web.stanford.edu/~hastie/ElemStatLearn/)** by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
+- **[An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)** by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirami.
+- **[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)** by François Chollet.
+- **[Dive into Deep Learning](https://d2l.ai/index.html)** — An interactive deep learning book with code, math, and discussions, based on the NumPy interface. — [Github](https://github.com/d2l-ai/d2l-en).
+- **[Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)** (2nd edition) by Aurélien Géron.
+- **[Machine Learning Yearing](https://www.deeplearning.ai/machine-learning-yearning/)** by Andew NG.
+- [**Practical Machine Learning: A New Look at Anomaly Detection**](https://mapr.com/practical-machine-learning-new-look-anomaly-detection/) -- Ted Dunning & Ellen Friedman
+- **[The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://web.stanford.edu/~hastie/ElemStatLearn/)** by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
 
 ## 🤖 Github's repositories
 
 - **Awesome's lists**:
+  - **[Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection)** -- A curated list of awesome anomaly detection resources.
+  - **[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)** — A curated list of awesome big data frameworks, ressources and other awesomeness.
   - **[Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)** — A curated list of data engineering tools for software developers.
   - **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)** — A curated list of awesome Deep Learning tutorials, projects and communities.
   - **[Awesome Deep learning papers and other resources](https://github.com/endymecy/awesome-deeplearning-resources)** — Deep Learning and deep reinforcement learning research papers and some codes.
-  - **[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)** — A topic-centric list of HQ open datasets.
   - **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** — A curated list of awesome Machine Learning frameworks, libraries and software.
-  - **[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)** — A curated list of awesome big data frameworks, ressources and other awesomeness.
+  - **[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)** — A topic-centric list of HQ open datasets.
 - **[120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)** — Answers to 120 commonly asked data science interview questions.
 - **[A Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course)** — Machine Learning Course with Python. Refer to the course page for step-by-step explanations.
 - **[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)** — Python Data Science Handbook: full text in Jupyter Notebooks.
