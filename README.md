@@ -64,6 +64,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Gradient checking. -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#gradient-checking).
 - [x] Gradient Descent. — [my note](https://dinhanhthi.com/deeplearning-ai-course-1#gradient-descent)
 - [x] Grid Search. — [my note](https://dinhanhthi.com/grid-search)
+- [ ] Early Stopping.
 - [x] F-test, p-value, f1-score, t-value, z-score. — [my note](https://dinhanhthi.com/notes#probability_&_statistics)
 - [x] Forward/Backward propagation. — [my notes](https://dinhanhthi.com/deeplearning-ai-course-1#neural-network-overview)
 - [x] Human-level performance -- [my note](https://dinhanhthi.com/deeplearning-ai-course-3#comparing-to-human-level-performance)
@@ -80,7 +81,8 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Pipeline — [my note](https://dinhanhthi.com/pipeline)
 - [x] **Plots** / **Charts**: box plots, heat map plots, line plots, area plots, bar chart, choropleth map, waffle chart, factorplot.
 - [x] Regular Expressions (RegEx) — [my notes](https://dinhanhthi.com/regular-expression)
-- [x] Regularization: L2, dropout -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#regularization-step).
+- [x] Regularization: L2, Dropout -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#regularization-step).
+- [ ] Repeat Vector.
 - [x] Scaling.
 - [x] Supervised Learning / Unsupervised Learning.
 - [x] Train / Dev / Test sets. — [my note](https://dinhanhthi.com/deeplearning-ai#course-2)
@@ -148,7 +150,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 - [ ] [**Advanced Data Science with IBM Specialization**](https://www.coursera.org/specializations/advanced-data-science-ibm) on Coursera.
 - [ ] [**Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization**](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) by [Google Cloud Training](https://www.coursera.org/instructor/google-cloud-training) on Coursera.
-- [x] [**Anomaly Detection in Time Series Data with Keras**](https://www.coursera.org/learn/anomaly-detection-time-series-keras/home/welcome) by Coursera Project Network.
+- [x] [**Anomaly Detection in Time Series Data with Keras**](https://www.coursera.org/learn/anomaly-detection-time-series-keras/home/welcome) by Coursera Project Network. -- [my certificate](https://www.coursera.org/account/accomplishments/certificate/GQQ7E4NU6RZ2)
 - [ ] [**CS231n: Convolutional Neural Networks for Visual Recognition**](http://cs231n.stanford.edu/index.html) by Stanford.
 - [x] **[Data Science Path](https://www.codecademy.com/learn/paths/data-science)** on Codecademy. It contains 27 sub-courses covering all necessary knowledge about data science — [my certificate](https://www.codecademy.com/profiles/dinhanhthi) — [notes & codes](./codecademy-data-science).
 - [x] **[Data Scientist](https://www.dataquest.io/path/data-scientist)** path & **[Data Engineer](https://www.dataquest.io/path/data-engineer/)** path on Dataquest. Both of them contain many sub-courses covering all about Data Science — [my note](https://rawnote.dinhanhthi.com/tags#dataquest) — [my certificate](https://app.dataquest.io/profile/dinhanhthi)
