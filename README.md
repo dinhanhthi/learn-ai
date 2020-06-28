@@ -55,23 +55,37 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 - [x] **Activation functions**: Sigmoid, ReLU, Softmax, tanh — [my note](https://dinhanhthi.com/deeplearning-ai-course-1#activation-functions)
 - [ ] Active learning (ML).
+- [x] Avoidable bias -- [my note](https://dinhanhthi.com/deeplearning-ai-course-3#avoidable-bias)
+- [x] Batch Normalization -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#batch-normalization)
 - [x] Cost function.
 - [x] Confusion matrix. — [my note](https://dinhanhthi.com/confusion-matrix-and-f1-score)
 - [x] Cross Validation (K-folds).
 - [x] Decision boundary.
+- [x] Gradient checking. -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#gradient-checking).
 - [x] Gradient Descent. — [my note](https://dinhanhthi.com/deeplearning-ai-course-1#gradient-descent)
 - [x] Grid Search. — [my note](https://dinhanhthi.com/grid-search)
 - [x] F-test, p-value, f1-score, t-value, z-score. — [my note](https://dinhanhthi.com/notes#probability_&_statistics)
 - [x] Forward/Backward propagation. — [my notes](https://dinhanhthi.com/deeplearning-ai-course-1#neural-network-overview)
+- [x] Human-level performance -- [my note](https://dinhanhthi.com/deeplearning-ai-course-3#comparing-to-human-level-performance)
+- [x] Initialization: He, random, zero. -- [my notes](https://dinhanhthi.com/deeplearning-ai-course-2#initialization-step).
 - [ ] Inverse methods.
+- [x] Multi-task learning -- [my note](https://dinhanhthi.com/deeplearning-ai-course-3#multi-task-learning)
+- [ ] Optimization algorithms:
+  - [x] Mini-batch gradient descent. -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#mini-batch-gradient-descent)
+  - [x] Exponentially weighted averages -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#exponentially-weighted-averages)
+  - [x] Gradient Descent with Momentum -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#gradient-descent-with-momentum)
+  - [x] RMSprop -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#rmsprop)
+  - [x] Adam Optimization -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#adam-optimization)
 - [x] Overfitting (High variance) / Underfitting (High bias).
 - [x] Pipeline — [my note](https://dinhanhthi.com/pipeline)
 - [x] **Plots** / **Charts**: box plots, heat map plots, line plots, area plots, bar chart, choropleth map, waffle chart, factorplot.
 - [x] Regular Expressions (RegEx) — [my notes](https://dinhanhthi.com/regular-expression)
+- [x] Regularization: L2, dropout -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#regularization-step).
 - [x] Scaling.
 - [x] Supervised Learning / Unsupervised Learning.
 - [x] Train / Dev / Test sets. — [my note](https://dinhanhthi.com/deeplearning-ai#course-2)
-- [x] Tuning. — [my note](https://dinhanhthi.com/deeplearning-ai-course-2#hyperparameter-tuning)
+- [x] Transfer learning -- [my note](https://dinhanhthi.com/deeplearning-ai-course-3#transfer-learning)
+- [x] Tuning. — [my note](https://dinhanhthi.com/search?q=tuning)
 - [x] Whitening. — [my note](https://dinhanhthi.com/principal-component-analysis#whitening)
 
 ## 🎲 Tasks
@@ -122,6 +136,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] [**Numpy**](https://numpy.org/) — a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. — [my note](https://dinhanhthi.com/python-numpy-tips)
 - [ ] [**OpenCV**](https://opencv.org/) — a library of programming functions mainly aimed at real-time computer vision.
 - [x] [**Pandas**](https://pandas.pydata.org/) — a software library written for the Python programming language for data manipulation and analysis. -- [my note](https://dinhanhthi.com/python-pandas)
+- [ ] [**Plotly**](https://plotly.com/) -- the front-end for ML and data science models.
 - [x] [**PyTorch**](https://pytorch.org/) -- [my note](https://dinhanhthi.com/pytorch)
 - [x] [**Seaborn**](https://seaborn.pydata.org/) — a Python data visualization library based on matplotlib.
 - [x] [**Scikit-learn**](https://scikit-learn.org/stable/) — a free software machine learning library for the Python programming language.
