@@ -1,0 +1,3 @@
+[submodule "deelearning.ai-tensorflow"]
+	path = deelearning.ai-tensorflow
+	url = git@github.com:dinhanhthi/deelearning.ai-tensorflow.git
