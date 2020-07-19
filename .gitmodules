@@ -1,6 +1,3 @@
-[submodule "deeplearning.ai-tensorflow"]
-	path = deeplearning.ai-tensorflow
-	url = git@github.com:dinhanhthi/deeplearning.ai-tensorflow.git
 [submodule "deeplearning.ai-Deep-Learning"]
 	path = deeplearning.ai-Deep-Learning
 	url = git@github.com:dinhanhthi/deeplearning.ai-Deep-Learning.git
