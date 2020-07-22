@@ -1,0 +1,3 @@
+[submodule "deeplearning.ai-courses"]
+	path = deeplearning.ai-courses
+	url = git@github.com:dinhanhthi/deeplearning.ai-courses.git
