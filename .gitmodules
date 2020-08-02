@@ -1,1 +1,7 @@
 
+[submodule "deeplearning.ai-courses"]
+	path = deeplearning.ai-courses
+	url = https://github.com/dinhanhthi/deeplearning.ai-courses
+[submodule "my-certificates"]
+	path = my-certificates
+	url = https://github.com/dinhanhthi/my-certificates
