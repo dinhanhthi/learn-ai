@@ -38,7 +38,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Random Forest — [my note](https://dinhanhthi.com/random-forest).
 - [ ] Singular Value Decomposition (SVD).
 - [x] Support Vector Machine (SVM) — [my note](https://dinhanhthi.com/support-vector-machine) — [my note](https://dinhanhthi.com/support-vector-machine)
-- [ ] Stochastic Gradient Decent (SGD).
+- [x] Stochastic Gradient Decent (SGD).
 
 ### Deep Learning
 
@@ -47,7 +47,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Convolutional Neural Network (CNN). — [my note](https://dinhanhthi.com/cnn-101)
 - [x] Neural Networks. — [my note](https://dinhanhthi.com/deeplearning-ai)
 - [x] Recurrent neural network (RNN).
-  - [ ] Long short-term memory (LSTM)
+  - [x] Long short-term memory (LSTM)
 - [ ] Gaussian Naive Bayes.
 
 
@@ -64,14 +64,14 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Gradient checking. -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#gradient-checking).
 - [x] Gradient Descent. — [my note](https://dinhanhthi.com/deeplearning-ai-course-1#gradient-descent)
 - [x] Grid Search. — [my note](https://dinhanhthi.com/grid-search)
-- [ ] Early Stopping.
+- [x] Early Stopping.
 - [x] F-test, p-value, f1-score, t-value, z-score. — [my note](https://dinhanhthi.com/notes#probability_&_statistics)
 - [x] Forward/Backward propagation. — [my notes](https://dinhanhthi.com/deeplearning-ai-course-1#neural-network-overview)
 - [x] Human-level performance -- [my note](https://dinhanhthi.com/deeplearning-ai-course-3#comparing-to-human-level-performance)
 - [x] Initialization: He, random, zero. -- [my notes](https://dinhanhthi.com/deeplearning-ai-course-2#initialization-step).
 - [ ] Inverse methods.
 - [x] Multi-task learning -- [my note](https://dinhanhthi.com/deeplearning-ai-course-3#multi-task-learning)
-- [ ] Optimization algorithms:
+- [x] Optimization algorithms:
   - [x] Mini-batch gradient descent. -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#mini-batch-gradient-descent)
   - [x] Exponentially weighted averages -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#exponentially-weighted-averages)
   - [x] Gradient Descent with Momentum -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#gradient-descent-with-momentum)
@@ -111,7 +111,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 
 ## ⚙️ Frameworks & Platforms
 
-- [ ] **[Apache Airflow](https://airflow.apache.org/)** — [my note](https://dinhanhthi.com/airflow-101)
+- [x] **[Apache Airflow](https://airflow.apache.org/)** — [my note](https://dinhanhthi.com/airflow-101)
 - [x] [**Docker**](https://www.docker.com/) — a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers — [my note](https://dinhanhthi.com/docker)
 - [x] [**Google Colab**](https://colab.research.google.com/) — a free cloud service, based on Jupyter Notebooks for machine-learning education and research — [my note](https://dinhanhthi.com/google-colab).
 - [ ] **[Google Kubernetes](https://kubernetes.io/)**
@@ -167,7 +167,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] [**MIT Deep Learning**](https://deeplearning.mit.edu/)
 - [ ] **Shervine Amidi**'s [courses about Machine Learning, Deep Learning, AI, Stats](https://stanford.edu/~shervine/teaching/) (Stanford University)
 - [ ] [**TensorFlow: Data and Deployment Specialization**](https://www.coursera.org/specializations/tensorflow-data-and-deployment#courses) by [deeplearning.ai](http://deeplearning.ai/) on Coursera.
-- [ ] [**TensorFlow in Practice Specialization**](https://www.coursera.org/specializations/tensorflow-in-practice) by [deeplearning.ai](http://deeplearning.ai/) on Coursera.
+- [x] [**TensorFlow in Practice Specialization**](https://www.coursera.org/specializations/tensorflow-in-practice) by [deeplearning.ai](http://deeplearning.ai/) on Coursera. -- [mynote](https://dinhanhthi.com/tags#tensorflow) -- [my cerficate](https://github.com/dinhanhthi/my-certificates/blob/master/deeplearning.ai%20-%20tensorflow%20in%20practice%20spec/Deep%20Learning%20AI%20TensorFlow%20Developer.pdf).
 - [ ] [**TensorFlow Tutorials**](https://www.tensorflow.org/tutorials).
 
 ## 📖 Books
@@ -175,9 +175,9 @@ The list of things I've finished so far on the way of learning by myself Machine
 *The "non-checked" books are under the way to be finished!*
 
 - **[An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)** by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirami.
-- **[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)** by François Chollet.
+- [x] **[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)** by François Chollet.
 - **[Dive into Deep Learning](https://d2l.ai/index.html)** — An interactive deep learning book with code, math, and discussions, based on the NumPy interface. — [Github](https://github.com/d2l-ai/d2l-en).
-- **[Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)** (2nd edition) by Aurélien Géron.
+- [x] **[Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)** (2nd edition) by Aurélien Géron.
 - **[Machine Learning Yearing](https://www.deeplearning.ai/machine-learning-yearning/)** by Andew NG.
 - [**Practical Machine Learning: A New Look at Anomaly Detection**](https://mapr.com/practical-machine-learning-new-look-anomaly-detection/) -- Ted Dunning & Ellen Friedman
 - **[The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://web.stanford.edu/~hastie/ElemStatLearn/)** by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
