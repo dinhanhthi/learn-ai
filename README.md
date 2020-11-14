@@ -20,81 +20,11 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] Face Recognition using SVM — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/SVM-face-recognition.ipynb) — [Open in Colab](https://colab.research.google.com/drive/1n2mpRLGL_pyUvV7yJacnspEvDwBYz16A).
 - [x] XOR problem using SVM to see the effect of gamma and C in the case of using RBF kernel — [source](https://github.com/dinhanhthi/data-science-learning/blob/master/project-based-learning/SVM-XOR-RBF-kernel-parameters.ipynb) — [Open in Colab](https://drive.google.com/file/d/1tvmwhMJiEB89Mo7m2oys0pcUwdgwPW5f/view?usp=sharing).
 
-## 🤖 Algorithms
-
-### Machine Learning
-
-- [x] Decision Tree — [my note](https://dinhanhthi.com/search?q=decision+tree).
-- **Clustering**
-  - [x] DBSCAN / HDBSCAN Clusering — [my note](https://dinhanhthi.com/k-dbscan-hdbscan-clustering)
-  - [x] Density-based Clustering. — [my note](https://dinhanhthi.com/k-dbscan-hdbscan-clustering)
-  - [x] Hierarchical Clustering.
-  - [x] K-Means Clustering. — [my note](https://dinhanhthi.com/k-means-clustering)
-  - [x] Mean-Shift clustering — [my note](https://dinhanhthi.com/mean-shift)
-- [x] Linear Regression / Logistic Regression. — [my note](https://dinhanhthi.com/deeplearning-ai-course-1#logistic-regression)
-- [x] K-Nearest Neighbors (KNN)
-- [x] Principal Component Analysis (PCA) — [my note](https://dinhanhthi.com/principal-component-analysis).
-- [ ] Perceptron.
-- [x] Random Forest — [my note](https://dinhanhthi.com/random-forest).
-- [ ] Singular Value Decomposition (SVD).
-- [x] Support Vector Machine (SVM) — [my note](https://dinhanhthi.com/support-vector-machine) — [my note](https://dinhanhthi.com/support-vector-machine)
-- [x] Stochastic Gradient Decent (SGD).
-
-### Deep Learning
-
-- [x] Auto Encoder. — [my note](https://dinhanhthi.com/simple-autoencoder-ae)
-  - [x] Auto Encoder for Anomaly Detection.
-- [x] Convolutional Neural Network (CNN). — [my note](https://dinhanhthi.com/cnn-101)
-- [x] Neural Networks. — [my note](https://dinhanhthi.com/deeplearning-ai)
-- [x] Recurrent neural network (RNN).
-  - [x] Long short-term memory (LSTM)
-- [ ] Gaussian Naive Bayes.
-
-
-## 💡 Concepts
-
-- [x] **Activation functions**: Sigmoid, ReLU, Softmax, tanh — [my note](https://dinhanhthi.com/deeplearning-ai-course-1#activation-functions)
-- [ ] Active learning (ML).
-- [x] Avoidable bias -- [my note](https://dinhanhthi.com/deeplearning-ai-course-3#avoidable-bias)
-- [x] Batch Normalization -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#batch-normalization)
-- [x] Cost function.
-- [x] Confusion matrix. — [my note](https://dinhanhthi.com/confusion-matrix-and-f1-score)
-- [x] Cross Validation (K-folds).
-- [x] Decision boundary.
-- [x] Gradient checking. -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#gradient-checking).
-- [x] Gradient Descent. — [my note](https://dinhanhthi.com/deeplearning-ai-course-1#gradient-descent)
-- [x] Grid Search. — [my note](https://dinhanhthi.com/grid-search)
-- [x] Early Stopping.
-- [x] F-test, p-value, f1-score, t-value, z-score. — [my note](https://dinhanhthi.com/notes#probability_&_statistics)
-- [x] Forward/Backward propagation. — [my notes](https://dinhanhthi.com/deeplearning-ai-course-1#neural-network-overview)
-- [x] Human-level performance -- [my note](https://dinhanhthi.com/deeplearning-ai-course-3#comparing-to-human-level-performance)
-- [x] Initialization: He, random, zero. -- [my notes](https://dinhanhthi.com/deeplearning-ai-course-2#initialization-step).
-- [ ] Inverse methods.
-- [x] Multi-task learning -- [my note](https://dinhanhthi.com/deeplearning-ai-course-3#multi-task-learning)
-- [x] Optimization algorithms:
-  - [x] Mini-batch gradient descent. -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#mini-batch-gradient-descent)
-  - [x] Exponentially weighted averages -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#exponentially-weighted-averages)
-  - [x] Gradient Descent with Momentum -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#gradient-descent-with-momentum)
-  - [x] RMSprop -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#rmsprop)
-  - [x] Adam Optimization -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#adam-optimization)
-- [x] Overfitting (High variance) / Underfitting (High bias).
-- [x] Pipeline — [my note](https://dinhanhthi.com/pipeline)
-- [x] **Plots** / **Charts**: box plots, heat map plots, line plots, area plots, bar chart, choropleth map, waffle chart, factorplot.
-- [x] Regular Expressions (RegEx) — [my notes](https://dinhanhthi.com/regular-expression)
-- [x] Regularization: L2, Dropout -- [my note](https://dinhanhthi.com/deeplearning-ai-course-2#regularization-step).
-- [ ] Repeat Vector.
-- [x] Scaling.
-- [x] Supervised Learning / Unsupervised Learning.
-- [x] Train / Dev / Test sets. — [my note](https://dinhanhthi.com/deeplearning-ai#course-2)
-- [x] Transfer learning -- [my note](https://dinhanhthi.com/deeplearning-ai-course-3#transfer-learning)
-- [x] Tuning. — [my note](https://dinhanhthi.com/search?q=tuning)
-- [x] Whitening. — [my note](https://dinhanhthi.com/principal-component-analysis#whitening)
-
 ## 🎲 Tasks
 
 - [x] Anomaly Detection. — [my note](https://dinhanhthi.com/simple-autoencoder-ae)
 - [x] Data Aggregation — [my note](https://dinhanhthi.com/data-aggregation)
-- [x] Data Overviewing. — [my note](https://dinhanhthi.com/dataframe-overview)
+- [x] Data Overview. — [my note](https://dinhanhthi.com/dataframe-overview)
 - [x] Data Visualization.
 - [x] Model evaluation.
 - [x] Preprocessing (texts, images, dates & times, structured data). — [my note](https://dinhanhthi.com/data-preprocessing-cleaning)
@@ -128,7 +58,7 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [x] [**Jupyter Notebook**](https://jupyter.org/) — an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text — [my note](https://dinhanhthi.com/jupyter-notebook).
 - [x] [**Trello**](https://trello.com/) — a web-based Kanban-style list-making application.
 
-## 📚 Libraries
+## 📚 Libraries & Frameworks
 
 *The "ticked" libraries don't mean that I've known/understand whole of them (but I can easily use them with their documentation)!*
 
