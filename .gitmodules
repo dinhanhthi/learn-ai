@@ -5,3 +5,6 @@
 [submodule "my-certificates"]
 	path = my-certificates
 	url = https://github.com/dinhanhthi/my-certificates
+[submodule "projects/cafe-in-hcm"]
+	path = projects/cafe-in-hcm
+	url = git@github.com:dinhanhthi/cafe-in-hcm.git
