@@ -1,10 +1,16 @@
 
-[submodule "deeplearning.ai-courses"]
-	path = deeplearning.ai-courses
-	url = https://github.com/dinhanhthi/deeplearning.ai-courses
 [submodule "my-certificates"]
 	path = my-certificates
 	url = https://github.com/dinhanhthi/my-certificates
 [submodule "projects/cafe-in-hcm"]
 	path = projects/cafe-in-hcm
 	url = git@github.com:dinhanhthi/cafe-in-hcm.git
+[submodule "mooc/dataquest-aio"]
+	path = mooc/dataquest-aio
+	url = git@github.com:dinhanhthi/dataquest-aio.git
+[submodule "mooc/coursera-ml-andrew-ng"]
+	path = mooc/coursera-ml-andrew-ng
+	url = git@github.com:dinhanhthi/coursera-ml-andrew-ng.git
+[submodule "mooc/coursera-ibm-data-professional-certificate"]
+	path = mooc/coursera-ibm-data-professional-certificate
+	url = git@github.com:dinhanhthi/coursera-ibm-data-professional-certificate.git
