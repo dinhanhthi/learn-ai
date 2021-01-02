@@ -14,3 +14,6 @@
 [submodule "mooc/coursera-ibm-data-professional-certificate"]
 	path = mooc/coursera-ibm-data-professional-certificate
 	url = git@github.com:dinhanhthi/coursera-ibm-data-professional-certificate.git
+[submodule "mooc/deeplearning.ai-courses"]
+	path = mooc/deeplearning.ai-courses
+	url = git@github.com:dinhanhthi/deeplearning.ai-courses.git
