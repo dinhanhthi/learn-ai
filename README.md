@@ -96,6 +96,8 @@ The list of things I've finished so far on the way of learning by myself Machine
 - [ ] [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) by Google.
 - [ ] [**Machine Learning with TensorFlow on Google Cloud Platform Specialization**](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp#courses) by [Google Cloud Training](https://www.coursera.org/instructor/google-cloud-training) on Coursera.
 - [ ] [**MIT Deep Learning**](https://deeplearning.mit.edu/)
+- [x] [**Natural Language Processing**](https://www.coursera.org/learn/language-processing/home/welcome) by HSE University on Coursera. -- [my note](https://www.notion.so/dinhanhthi/NLP-by-HSE-20cec3e92201475eb4d48787954f3aa4) -- my certificate
+- [ ] [**Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing) by deeplearning.ai on Coursera.
 - [ ] **Shervine Amidi**'s [courses about Machine Learning, Deep Learning, AI, Stats](https://stanford.edu/~shervine/teaching/) (Stanford University)
 - [ ] [**TensorFlow: Data and Deployment Specialization**](https://www.coursera.org/specializations/tensorflow-data-and-deployment#courses) by [deeplearning.ai](http://deeplearning.ai/) on Coursera.
 - [x] [**TensorFlow in Practice Specialization**](https://www.coursera.org/specializations/tensorflow-in-practice) by [deeplearning.ai](http://deeplearning.ai/) on Coursera. -- [mynote](https://dinhanhthi.com/tags#tensorflow) -- [my cerficate](https://github.com/dinhanhthi/my-certificates/blob/master/deeplearning.ai%20-%20tensorflow%20in%20practice%20spec/Deep%20Learning%20AI%20TensorFlow%20Developer.pdf).
