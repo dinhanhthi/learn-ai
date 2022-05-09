@@ -20,3 +20,6 @@
 [submodule "my-dockerfiles"]
 	path = my-dockerfiles
 	url = git@github.com:dinhanhthi/my-dockerfiles.git
+[submodule "interview/mountain-vs-beach"]
+	path = interview/mountain-vs-beach
+	url = https://github.com/dinhanhthi/mountain-vs-beach.git
