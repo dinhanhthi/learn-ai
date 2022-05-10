@@ -23,3 +23,6 @@
 [submodule "interview/mountain-vs-beach"]
 	path = interview/mountain-vs-beach
 	url = https://github.com/dinhanhthi/mountain-vs-beach.git
+[submodule "playground/google-vertex-ai"]
+	path = playground/google-vertex-ai
+	url = git@github.com:dinhanhthi/google-vertex-ai.git
