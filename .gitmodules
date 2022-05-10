@@ -26,3 +26,6 @@
 [submodule "playground/google-vertex-ai"]
 	path = playground/google-vertex-ai
 	url = git@github.com:dinhanhthi/google-vertex-ai.git
+[submodule "projects/mountain-vs-beach"]
+	path = projects/mountain-vs-beach
+	url = git@github.com:dinhanhthi/mountain-vs-beach.git
