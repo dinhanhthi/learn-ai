@@ -14,3 +14,7 @@ ML for Coders by fast.ai/data/TrainAndValid.csv
 ML for Coders by fast.ai/data/Valid.zip
 
 .DS_Store
+balloon
+output
+saved_model
+saved_models
