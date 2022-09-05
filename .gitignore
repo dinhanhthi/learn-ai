@@ -18,3 +18,5 @@ balloon
 output
 saved_model
 saved_models
+__MACOSX/
+playground/detectron2/skaters
