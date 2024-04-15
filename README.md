@@ -1,5 +1,7 @@
 # 📊 data-science-learning
 
+> **UPDATE April 15, 2024**: This repository has been archived and is superseded by my personal website ([dinhanhthi.com](https://dinhanhthi.com/)) and [the repositories on my Github account](https://github.com/dinhanhthi?tab=repositories). I've also compiled [a note about all resources](https://dinhanhthi.com/note/a-collection-of-learning-resources-for-the-ai-world/#python-f8788) I've have followed within the field of Data Science.
+
 The list of things I've finished so far on the way of learning by myself Machine Learning and Data Science.
 
 - My raw notes: [rawnote.dinhanhthi.com](http://rawnote.dinhanhthi.com) (quickly capture ideas from the courses).
